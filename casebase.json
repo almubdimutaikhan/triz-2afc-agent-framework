@@ -1,0 +1,817 @@
+{
+  "cases": [
+    {
+      "id": "001",
+      "problem_description": "To prevent water erosion of river banks, they can be strengthened with stones. However, water gradually washes sand and soil from under the stones, and the shoreline collapses. What can we do?",
+      "plus_factor_index": [
+        32
+      ],
+      "minus_factor_index": [
+        30
+      ],
+      "principle_index": [
+        2,
+        24
+      ],
+      "solutions": [
+        {
+          "content": "The stones are fixed with durable mesh wire. Moreover, the stones can be placed inside prefabricated sections similar to mesh wire baskets – thereby giving the construction the required shape and size.",
+          "principle_index": [
+            24
+          ]
+        }
+      ],
+      "notes": "Michael A. Orloff, Modern TRIZ, Page 187."
+    },
+    {
+      "id": "002",
+      "problem_description": "Any two-wheel scooter or bicycle remains stable only when in motion. In other words, these devices are \"dynamically stable\". However, when they stop, they fall down on their side. There are known systems that can stabilize spatial position using liquid equilibrium detectors and gyroscopic stabilizers. However, there is \"nothing to stabilize\" in a bicycle transversely – the only thing we can do is install a sophisticated \"scales-like\" system so as to make it possible, by constantly balancing, to keep the mass center of the system strictly within the support area. But that seems too complex and completely unjustified. Can we build a two-wheel vehicle which would be able to rapidly move along, carrying its \"pilot\" or \"passenger\" (whatever turns you on!), and keep upright without falling when forced to stop?",
+      "plus_factor_index": [
+        27
+      ],
+      "minus_factor_index": [
+        36
+      ],
+      "principle_index": [
+        1,
+        13,
+        35
+      ],
+      "solutions": [
+        {
+          "content": "If we have no resource that we can use to adjust the position of the scooter transversely, we can do it longitudinally, while transverse stability can be assured if the wheels are placed not one after the other (as is usually the case), but coaxially so that they are attached to the edges of the scooter! Now we have spatial and functional resources that we can use for steering!",
+          "principle_index": [
+            13
+          ]
+        }
+      ],
+      "notes": "Michael A. Orloff, Modern TRIZ, Page 368."
+    },
+    {
+      "id": "003",
+      "problem_description": "Different special training devices were set up at a fitness club. Every device takes up space, especially those designed for training in a lying position. Devices for training while standing take up less space. Space should be saved so that more guests can work out on the stations. Can you design a training station or machine to solve this problem?",
+      "plus_factor_index": [
+        39
+      ],
+      "minus_factor_index": [
+        6
+      ],
+      "principle_index": [
+        10,
+        35,
+        17,
+        7
+      ],
+      "solutions": [
+        {
+          "content": "Design a machine that allows guests to do different exercises from all four sides. The moveable weights are mounted on all four sides of the station and cables with rollers are threaded through consoles that are installed at different levels according to the type of exercise done.",
+          "principle_index": [
+            7,
+            17
+          ]
+        }
+      ],
+      "notes": "Michael A. Orloff, Inventive Thinking through TRIZ, Page 109."
+    },
+    {
+      "id": "004",
+      "problem_description": "Extinguishing fires at oil and gas drilling sites is a major environmental disaster, made difficult by the extreme heat and limited options for action, often requiring the use of tanks and bombs to cover the well with dirt. Approaching the well with other methods is impossible due to the scorching temperatures in the surrounding area, causing fires to last for months, burning large amounts of material and causing significant environmental harm by contaminating nearby ground and water with oil products.",
+      "plus_factor_index": [
+        33
+      ],
+      "minus_factor_index": [
+        30
+      ],
+      "principle_index": [
+        2,
+        25,
+        28,
+        39
+      ],
+      "solutions": [
+        {
+          "content": "To address this problem, an additional auxiliary well is drilled at an angle to intersect with the shaft of the burning well at a safe depth. Explosives and other solutions can then be introduced into the burning well through this auxiliary shaft to seal it with a kind of \"plug\" at a secure depth.As part of our control solution, a method developed in Russia involves the use of a special \"underground vehicle\" that approaches the burning well's shaft at an angle from a safe distance. The vehicle can function like an underground bulldozer at the point where it meets the well's shaft, gradually sealing it completely with stone or earth.",
+          "principle_index": [
+            2
+          ]
+        }
+      ],
+      "notes": "Michael A. Orloff, Inventive Thinking through TRIZ, Page 143."
+    },
+    {
+      "id": "005",
+      "problem_description": "If the blade is made heavier, it can strike a more effective blow with better splitting power, but the quantity of material used increases making the device more awkward to handle.",
+      "plus_factor_index": [
+        10
+      ],
+      "minus_factor_index": [
+        26
+      ],
+      "principle_index": [
+        14,
+        29,
+        18,
+        36
+      ],
+      "solutions": [
+        {
+          "content": "The axe developed for Fiskars makes use of a hollow handle to resolve the issue using the pneumatics and hydraulics principle. By using a hollow handle (i.e. replacing solid parts of an object with) in this case, air, the centre of gravity is moved forward and the effective blow from the axe becomes more powerful from a lighter tool.",
+          "principle_index": [
+            29
+          ]
+        }
+      ],
+      "notes": "Peter R.N. Childs, Mechanical Design Engineering Handbook (Second Edition), Page 131."
+    },
+    {
+      "id": "006",
+      "problem_description": "In competitive high diving, it is important for the diver to engage in much practice but repetitive diving involves multiple impacts between the diver and the water potentially leading to injuries.",
+      "plus_factor_index": [
+        9
+      ],
+      "minus_factor_index": [
+        27
+      ],
+      "principle_index": [
+        11,
+        35,
+        37,
+        28
+      ],
+      "solutions": [
+        {
+          "content": "Using aeration of water to make it softer during diving practice enabling more dives to be undertaken.",
+          "principle_index": [
+            11
+          ]
+        }
+      ],
+      "notes": "Peter R.N. Childs, Mechanical Design Engineering Handbook (Second Edition), Page 136."
+    },
+    {
+      "id": "007",
+      "problem_description": "We are faced with a challenge involving the pneumatic transportation of metal shots through a system of plastic piping originally intended for plastic pellets. The transition to metal shots, despite their advantages for production purposes, has led to significant wear and damage, particularly at the pipe's elbows. This issue arises from the incompatibility between the metal shots and the existing plastic elbow design. The task at hand is to identify and implement a solution that resolves this conflict, ensuring the system's durability and effectiveness for transporting metal shots.",
+      "plus_factor_index": [
+        9
+      ],
+      "minus_factor_index": [
+        13
+      ],
+      "principle_index": [
+        28,
+        33,
+        1,
+        18
+      ],
+      "solutions": [
+        {
+          "content": "Placing a magnet at the elbow to bind metal shots to a plastic material, providing a blanket of shots that then absorb the energy.",
+          "principle_index": [
+            28
+          ]
+        }
+      ],
+      "notes": "Semyon D. Savransky, Engineering of creativity introduction to TRIZ methodology of inventive problem solving, Page 229."
+    },
+    {
+      "id": "008",
+      "problem_description": "Can wall needs to be cheap enough to mass produce; at the same time the layering of can materials is complex.",
+      "plus_factor_index": [
+        32
+      ],
+      "minus_factor_index": [
+        36
+      ],
+      "principle_index": [
+        1,
+        26,
+        27
+      ],
+      "solutions": [
+        {
+          "content": "Changing blow-molding process to be less precise and added a trimming step to the blow-molding step.",
+          "principle_index": [
+            1
+          ]
+        }
+      ],
+      "notes": "David Silverstein, Insourcing Innovation How to Achieve Competitive Excellence Using TRIZ, Page 82."
+    },
+    {
+      "id": "009",
+      "problem_description": "Thermal stresses in the skin structure of aircraft are not wanted. To offset thermal deformations, small spaces are intentionally left between the panels of the aircraft's skin. To make the surface aerodynamically sleek, gaps are filled with a sealant made from polymer (in paste form). The process of applying this paste to fill the gaps requires a lot of labor and takes a lot of time.",
+      "plus_factor_index": [
+        33
+      ],
+      "minus_factor_index": [
+        22
+      ],
+      "principle_index": [
+        2,
+        19,
+        13
+      ],
+      "solutions": [
+        {
+          "content": "It would be sufficient if the sealant just covered the gap between the panels. This would ease the process of closing the gaps, and would not degrade the aerodynamic properties of the aircraft skin. Specifically, A metal cap with an elastomeric retainer snaps into the gap, thus making its installation very quick.",
+          "principle_index": [
+            2
+          ]
+        }
+      ],
+      "notes": "Victor Fey, Innovation on Demand New Product Development Using TRIZ, Page 193."
+    },
+    {
+      "id": "010",
+      "problem_description": "It is necessary to move cargo in the winter through waterways that can be covered by as much as 10 feet of ice. Traditionally, icebreakers have been used to open a channel through the ice for a convoy of ships to follow. The icebreaker can only advance at a speed of 2 km/hr. We need to increase this rate to at least 6 km/hr, although faster would be even more desirable. Alternative means of transportation are not acceptable. Our investigation shows that the icebreaker has the most efficient engine available in industry at this time.",
+      "plus_factor_index": [
+        9
+      ],
+      "minus_factor_index": [
+        21
+      ],
+      "principle_index": [
+        19,
+        35,
+        28,
+        2
+      ],
+      "solutions": [
+        {
+          "content": "Utilizing either of these principles can provide an ice breaking action. For example, instead of continuously pushing the ship through the ice, a rocking motion can be used to break the ice and then move forward.",
+          "principle_index": [
+            19
+          ]
+        },
+        {
+          "content": "We can change the part of the ship which contacts the ice. Removing the part completely allows the ship to move through the ice with no problem — except that the bottom part of the ship will sink to the ocean floor. To prevent this, both the upper and lower parts of the ship can be connected by two thin vertical blades that cut the ice much more easily. Minimizing the profile of the ship reduces its drag as it cuts through the ice. The bottom part of the ship will stay below the ice while carrying cargo. Now the icebreaker also doubles as a cargo ship.",
+          "principle_index": [
+            2,
+            35
+          ]
+        }
+      ],
+      "notes": "Genrich Altshuller, Innovation Algorithm, Page 279"
+    },
+    {
+      "id": "011",
+      "problem_description": "Drivers repeatedly complain about the threaded gas cap on automobiles: it is awkward to unscrew and screw back on, easy to leave behind at the pump, leaves a gasoline smell on the hands, and triggers a dashboard warning light whenever it is not tightened correctly. The refuelling interface needs to become far easier and more forgiving to use, yet it must not compromise the fuel-system seal that keeps vapour from escaping and dirt from entering the tank.",
+      "plus_factor_index": [
+        33
+      ],
+      "minus_factor_index": [
+        27
+      ],
+      "principle_index": [
+        2,
+        25
+      ],
+      "solutions": [
+        {
+          "content": "Eliminate the removable cap entirely and build a self-sealing, spring-loaded flap into the fuel-filler neck. The pump nozzle pushes the flap open during refuelling, and the spring snaps it shut afterward, so the tank seals itself with no separate part for the driver to handle, lose, or mis-tighten.",
+          "principle_index": [
+            25
+          ]
+        }
+      ],
+      "notes": "Lean East, \"TRIZ – Inventive Problem Solving,\" leaneast.com/triz (accessed 2026-06-26)."
+    },
+    {
+      "id": "012",
+      "problem_description": "A concrete bridge span carries heavy traffic loads that put its underside in tension as it bends. Concrete is strong in compression but weak in tension, so under service loads the lower fibres of the span crack, and its real load-bearing strength falls well short of what the cross-section should be able to provide. We need the span to withstand large bending loads without the concrete cracking on its tension side.",
+      "plus_factor_index": [
+        14
+      ],
+      "minus_factor_index": [
+        11
+      ],
+      "principle_index": [
+        9
+      ],
+      "solutions": [
+        {
+          "content": "Before the span enters service, thread high-strength steel tendons through it and tension them, putting the concrete into compression in advance. When traffic later tries to bend the underside into tension, that load must first cancel the built-in compression, so the concrete never reaches net tension and does not crack.",
+          "principle_index": [
+            9
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "013",
+      "problem_description": "Eyeglass wearers need lenses that are clear and fully transmissive indoors and in dim light, yet dark enough to shield the eyes from glare and bright sun outdoors. A single fixed tint cannot do both: a clear lens gives no outdoor protection, while a permanently dark lens makes indoor vision poor. The very same lens must be light when its surroundings are dim and dark when its surroundings are bright.",
+      "plus_factor_index": [
+        30
+      ],
+      "minus_factor_index": [
+        18
+      ],
+      "principle_index": [
+        32,
+        35
+      ],
+      "solutions": [
+        {
+          "content": "Make the lens from a photochromic material whose molecules reversibly switch optical state with ultraviolet exposure. In bright sunlight the high UV darkens the lens; indoors, with little UV, the material reverts and the lens turns clear again, so the lens adapts its own transmission to the ambient light without any user action.",
+          "principle_index": [
+            32
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "014",
+      "problem_description": "A rotary clutch must couple two shafts to transmit torque on demand and then release them so they can spin freely and independently. A fixed mechanical coupling is rigid enough to carry the load but cannot let go smoothly; a loose coupling releases freely but cannot transmit power. The connecting medium needs to behave as an effectively solid link while transmitting energy and as an effectively free, fluid one the rest of the time.",
+      "plus_factor_index": [
+        14
+      ],
+      "minus_factor_index": [
+        35
+      ],
+      "principle_index": [
+        35,
+        28
+      ],
+      "solutions": [
+        {
+          "content": "Fill the gap between the clutch plates with a magnetorheological fluid: a suspension of ferromagnetic particles. To transmit torque, energise an electromagnet so the field aligns the particles into chains and the fluid stiffens into a near-solid that carries the load. Switch the field off and the suspension relaxes back into a free-flowing liquid, letting the shafts turn independently.",
+          "principle_index": [
+            35
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "015",
+      "problem_description": "Foundation piles must be driven into the ground quickly during construction, which favours a sharp pointed tip that slices through soil with little resistance. Once in place, the very same piles must resist being pushed deeper or pulled out under earthquake and structural loads, which favours a broad blunt profile that mobilises soil resistance. A uniformly sharp pile drives fast but anchors poorly; a uniformly blunt pile anchors well but drives slowly.",
+      "plus_factor_index": [
+        9
+      ],
+      "minus_factor_index": [
+        13
+      ],
+      "principle_index": [
+        3,
+        17
+      ],
+      "solutions": [
+        {
+          "content": "Give different parts of the pile different shapes. Keep the leading tip sharp so it penetrates soil rapidly while being driven, but add a blunt shoulder or fin higher up the shaft. The sharp tip governs the easy descent, while the blunt shoulder engages the surrounding soil once the pile is seated, supplying the bearing and pull-out resistance needed for seismic support.",
+          "principle_index": [
+            3
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "016",
+      "problem_description": "Liquid medicine is packaged in small glass ampoules whose necks are fused shut by a flame to give a perfectly airtight seal. The heat needed to melt and close the glass also reaches the medicine just below the neck, and many of these formulations are heat-sensitive and begin to degrade at those temperatures. We need a hermetic flame seal without letting the sealing heat spoil the medicine inside.",
+      "plus_factor_index": [
+        32
+      ],
+      "minus_factor_index": [
+        30
+      ],
+      "principle_index": [
+        9,
+        11
+      ],
+      "solutions": [
+        {
+          "content": "Chill the filled ampoule hard just before sealing, for instance by surrounding the liquid with liquid nitrogen so the medicine is frozen and very cold. During the brief moment the torch fuses the glass neck, the large cold reserve keeps the medicine far below its degradation temperature; once sealed, it simply warms back up undamaged.",
+          "principle_index": [
+            9
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "017",
+      "problem_description": "Baked-on grease and food residue accumulate on the inner walls of a kitchen oven. The usual way to burn this residue away is a pyrolytic cleaning cycle that heats the empty oven to very high temperatures for a long time, consuming a large amount of energy and leaving the appliance unusable while it runs. We want the oven to stay clean without spending all that extra energy on a dedicated high-temperature cleaning cycle.",
+      "plus_factor_index": [
+        33
+      ],
+      "minus_factor_index": [
+        20
+      ],
+      "principle_index": [
+        10,
+        3
+      ],
+      "solutions": [
+        {
+          "content": "Coat the oven's interior surfaces with a catalytic material at the time of manufacture. The catalyst lowers the temperature at which grease and food residue oxidise, so the spatter breaks down continuously at ordinary cooking temperatures during normal use. No separate high-energy cleaning cycle is needed because the cleaning action is built into everyday baking.",
+          "principle_index": [
+            10
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "018",
+      "problem_description": "An electric fence is meant to contain livestock by giving any animal that touches it a shock unpleasant enough to make it back off. A wire held continuously at high voltage would do this, but it wastes electrical energy every instant whether or not anything is touching it, and a permanently live high-voltage line is also genuinely dangerous. We need the wire to deliver a strong deterrent shock on contact while not being continuously energised.",
+      "plus_factor_index": [
+        10
+      ],
+      "minus_factor_index": [
+        20
+      ],
+      "principle_index": [
+        19
+      ],
+      "solutions": [
+        {
+          "content": "Drive the fence with brief high-voltage pulses rather than a steady charge. An energiser stores energy and discharges it as a short, sharp pulse once or twice per second; the wire is live only for those few milliseconds. An animal in contact almost always meets a pulse and gets a strong, memorable shock, while the average power drawn and the time the line is dangerous are both tiny.",
+          "principle_index": [
+            19
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "019",
+      "problem_description": "A promotional display structure for events needs to be large and eye-catching when set up at a venue, so it reads from a distance and fills its space. The same structure must also be shipped between venues and stored between campaigns, where a large rigid object is heavy, expensive to transport, and awkward to store. A rigid frame big enough to be impressive is exactly what makes it costly to move and keep.",
+      "plus_factor_index": [
+        5
+      ],
+      "minus_factor_index": [
+        7
+      ],
+      "principle_index": [
+        29,
+        15
+      ],
+      "solutions": [
+        {
+          "content": "Build the display as a sealed pneumatic (inflatable) structure. On site, a small blower pressurises it and it springs up to its full, rigid-looking size; afterwards it is deflated and folds down to a small, light package that fits in a bag. Air does the work of holding the shape, so the object can be both large in use and compact in transit and storage.",
+          "principle_index": [
+            29
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "020",
+      "problem_description": "A pressurized passenger aircraft needs cabin windows cut into its fuselage. Early jets used windows with roughly rectangular, sharp-cornered openings. Every flight pressurises and depressurises the fuselage, and at the sharp corners of these openings the cyclic stress is concentrated far above the surrounding skin stress, so fatigue cracks start at the corners and can grow until the structure fails catastrophically. We need the openings without creating these dangerous stress-concentration points.",
+      "plus_factor_index": [
+        5
+      ],
+      "minus_factor_index": [
+        14
+      ],
+      "principle_index": [
+        14,
+        3
+      ],
+      "solutions": [
+        {
+          "content": "Round the corners of the window cut-outs into smooth ovals or generously radiused rectangles. With no sharp corner, the stress flows smoothly around the opening instead of piling up at a point, so the peak local stress drops to near the surrounding skin level. The cabin keeps its windows while the fatigue-cracking that came from sharp corners is designed out.",
+          "principle_index": [
+            14
+          ]
+        }
+      ],
+      "notes": "Lean Outside the Box, \"40 Inventive Principles of TRIZ,\" leanoutsidethebox.com (accessed 2026-06-26); classic de Havilland Comet fatigue case."
+    },
+    {
+      "id": "021",
+      "problem_description": "A load-bearing structural part, such as an aircraft or vehicle component, must be both very strong and stiff and as light as possible. With ordinary structural metals this is a direct trade-off: steel has the strength and stiffness but is dense and heavy, while aluminium is much lighter but does not match steel's strength and stiffness. Choosing either metal forces giving up on one of the two requirements.",
+      "plus_factor_index": [
+        14
+      ],
+      "minus_factor_index": [
+        1
+      ],
+      "principle_index": [
+        40
+      ],
+      "solutions": [
+        {
+          "content": "Make the part from a fibre-reinforced composite, for example carbon fibres embedded in a cured resin matrix. The stiff, strong fibres carry the structural loads along their length at a fraction of the density of steel, while the matrix binds them and transfers load between them. The result reaches a strength-to-weight and stiffness-to-weight ratio that neither steel nor aluminium alone can offer.",
+          "principle_index": [
+            40
+          ]
+        }
+      ],
+      "notes": "Lean Outside the Box, \"40 Inventive Principles of TRIZ,\" leanoutsidethebox.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "022",
+      "problem_description": "An elevator must raise a car loaded with passengers up many floors. If the hoist motor has to lift the entire dead weight of the car plus its load on every trip, it must be very powerful and it draws a large amount of energy each time it ascends, making the drive system big, expensive, and wasteful. We need to move the heavy car up and down without paying the full weight in motor size and energy on every trip.",
+      "plus_factor_index": [
+        10
+      ],
+      "minus_factor_index": [
+        19
+      ],
+      "principle_index": [
+        8
+      ],
+      "solutions": [
+        {
+          "content": "Hang a counterweight on the other side of the hoist cable, sized to roughly the weight of the empty car plus about half a typical load. As the car goes up the counterweight comes down, so gravity on the descending mass does most of the lifting work. The motor only has to supply the force for the difference between the two sides, so it can be far smaller and uses much less energy per trip.",
+          "principle_index": [
+            8
+          ]
+        }
+      ],
+      "notes": "Lean Outside the Box, \"40 Inventive Principles of TRIZ,\" leanoutsidethebox.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "023",
+      "problem_description": "Water flows through a metal pipe that is buried underground. We need to determine which way the water is moving inside the pipe, but the pipe must not be cut, drilled, or otherwise opened — its seal has to stay intact while the flow direction is found.",
+      "plus_factor_index": [
+        28
+      ],
+      "minus_factor_index": [
+        31
+      ],
+      "principle_index": [
+        35,
+        24
+      ],
+      "solutions": [
+        {
+          "content": "Briefly heat the pipe at one spot from the outside. The warmed slug of water is carried along by the flow; by detecting on which side of the heated spot the warmth reappears downstream, the direction of flow is read off — without ever breaching the pipe.",
+          "principle_index": [
+            35
+          ]
+        }
+      ],
+      "notes": "Классическая задача ТРИЗ (определение направления потока в трубе). 4brain.ru, \"Примеры, задачи и загадки по ТРИЗ с ответами,\" 4brain.ru/triz/zadachi.php (accessed 2026-06-26)"
+    },
+    {
+      "id": "024",
+      "problem_description": "Ice builds up on overhead power-transmission lines and can grow heavy enough to damage them. The ice must be removed without interrupting the electricity supply, and ideally without wasting energy heating the lines when the weather is above freezing and no ice can form.",
+      "plus_factor_index": [
+        30
+      ],
+      "minus_factor_index": [
+        20
+      ],
+      "principle_index": [
+        36,
+        23
+      ],
+      "solutions": [
+        {
+          "content": "Thread ferrite rings made of a magnetic material with a Curie point near 0 °C onto the conductors. Below freezing the rings are magnetic and the line's alternating current heats them, melting any ice; once the temperature rises above 0 °C the material passes its Curie point, loses its magnetism, and stops heating — so the de-icing switches itself on and off with the weather.",
+          "principle_index": [
+            36
+          ]
+        }
+      ],
+      "notes": "Классическая задача Альтшуллера (ферритовые кольца с точкой Кюри). 4brain.ru, \"Примеры, задачи и загадки по ТРИЗ с ответами,\" 4brain.ru/triz/zadachi.php (accessed 2026-06-26)"
+    },
+    {
+      "id": "025",
+      "problem_description": "A swimming pool is to be made as safe as possible for people who cannot swim, so that someone who stops moving will not sink, and without relying on constant supervision or special flotation equipment.",
+      "plus_factor_index": [
+        27
+      ],
+      "minus_factor_index": [
+        36
+      ],
+      "principle_index": [
+        35
+      ],
+      "solutions": [
+        {
+          "content": "Fill the pool with a concentrated salt solution instead of fresh water. The much denser brine buoys a human body up to the surface on its own, so a non-swimmer floats without effort and without any added devices.",
+          "principle_index": [
+            35
+          ]
+        }
+      ],
+      "notes": "Задача ТРИЗ (безопасный бассейн). 4brain.ru, \"Примеры, задачи и загадки по ТРИЗ с ответами,\" 4brain.ru/triz/zadachi.php (accessed 2026-06-26)"
+    },
+    {
+      "id": "026",
+      "problem_description": "A drug must be delivered into the body steadily over a long period. Taking it as small pills means dosing too often to be practical, while a single large dose meant to last the whole period would reach harmful concentrations.",
+      "plus_factor_index": [
+        33
+      ],
+      "minus_factor_index": [
+        30
+      ],
+      "principle_index": [
+        20,
+        24
+      ],
+      "solutions": [
+        {
+          "content": "Deliver the drug through a flat adhesive skin patch. The active substance diffuses out of the patch through the skin at a controlled, steady rate, so the body receives a continuous low dose for days from a single application — no frequent pills and no harmful spike.",
+          "principle_index": [
+            20
+          ]
+        }
+      ],
+      "notes": "Задача ТРИЗ (трансдермальный пластырь со скополамином). 4brain.ru, \"Примеры, задачи и загадки по ТРИЗ с ответами,\" 4brain.ru/triz/zadachi.php (accessed 2026-06-26)"
+    },
+    {
+      "id": "027",
+      "problem_description": "Aquarium fish must be fed live food (small crustaceans) continuously for several days while the owner is away. Releasing several days' worth of live food at once does not work: the fish overeat and most of the food dies before it can be eaten.",
+      "plus_factor_index": [
+        15
+      ],
+      "minus_factor_index": [
+        23
+      ],
+      "principle_index": [
+        1
+      ],
+      "solutions": [
+        {
+          "content": "Divide the tank with a transparent partition perforated by small holes. Keep the live food on one side; the tiny crustaceans drift through the holes a few at a time to the fish on the other side, so a large multi-day store of food becomes available only in small amounts at any moment.",
+          "principle_index": [
+            1
+          ]
+        }
+      ],
+      "notes": "Задача ТРИЗ (кормление рыбок через перегородку). 4brain.ru, \"Примеры, задачи и загадки по ТРИЗ с ответами,\" 4brain.ru/triz/zadachi.php (accessed 2026-06-26)"
+    },
+    {
+      "id": "028",
+      "problem_description": "A planetary rover needs extra ballast weight to stay stable on rough terrain. When that ballast is carried on the outside of the vehicle, it catches on bumps and obstacles and actually reduces the rover's ability to cross the ground.",
+      "plus_factor_index": [
+        13
+      ],
+      "minus_factor_index": [
+        9
+      ],
+      "principle_index": [
+        7
+      ],
+      "solutions": [
+        {
+          "content": "Move the stabilising ballast — heavy spheres or a dense liquid — inside the rover's tyres, nesting one object within another. The wheels still carry the weight that keeps the rover stable, but nothing protrudes to snag on the terrain, so mobility is preserved.",
+          "principle_index": [
+            7
+          ]
+        }
+      ],
+      "notes": "Задача ТРИЗ (балласт внутри шин, принцип матрёшки). 4brain.ru, \"Примеры, задачи и загадки по ТРИЗ с ответами,\" 4brain.ru/triz/zadachi.php (accessed 2026-06-26)"
+    },
+    {
+      "id": "P01",
+      "problem_description": "On an industrial scale, sweet peppers must be de-stemmed and de-seeded before canning. Removing the stem and seed core from a single pepper by hand with a knife is easy, but a cannery has to process many thousands of peppers at a time, and doing this mechanically — fast, and without crushing or wasting the edible flesh — is the difficulty.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Classic Altshuller TRIZ problem (commercial pepper de-stemming). Innovation-TRIZ, \"The use of TRIZ to increase the value of Intellectual Property,\" innovation-triz.com/papers/property.html (accessed 2026-06-26)."
+    },
+    {
+      "id": "P02",
+      "problem_description": "Industrial diamond grinding powder is made by splitting larger natural diamonds. Diamonds, like other gemstones, carry internal microcracks and flaws; the problem is to split each stone cleanly along its existing flaws to yield usable grit, at production scale, without shattering it unpredictably or wasting material.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Classic Altshuller TRIZ problem (splitting diamonds into industrial grinding dust). Innovation-TRIZ, \"The use of TRIZ to increase the value of Intellectual Property,\" innovation-triz.com/papers/property.html (accessed 2026-06-26)."
+    },
+    {
+      "id": "P03",
+      "problem_description": "A confectionery factory produces chocolates with a liquid sugar-syrup (liqueur) centre. To raise output the liquid filling is warmed so it flows freely and can be dispensed quickly into the moulds, but the hot filling softens and melts the chocolate shells it is meant to sit inside. The factory needs much higher filling throughput without the heat ruining the chocolate.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Classic Altshuller TRIZ problem (chocolate-filled / liqueur candy). Corroborated across multiple TRIZ references (e.g. sixsigmadaily.com and the metodolog.ru TRIZ Journal archive), accessed 2026-06-26. Primary-source page/edition not re-verified this run."
+    },
+    {
+      "id": "P04",
+      "problem_description": "A crew is trapped in a submarine that is immobilized on the sea bed. The task is to devise a way for the crew to escape and reach the surface when no diving gear, breathing apparatus, or external rescue is available.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Altshuller's early inventive problem (escape from an immobilized submarine without diving gear). Toolshero, \"Genrich Altshuller: his biography and books,\" toolshero.com (accessed 2026-06-26). Underspecified relative to P01–P03; flagged for tighter primary sourcing."
+    },
+    {
+      "id": "P05",
+      "problem_description": "After a celebration, several helium balloons have drifted up to the ceiling of a hotel conference hall. They must be cleared before the next event, but no ladder long enough to reach them is available.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная учебная задача ТРИЗ (упражнение 4). Гин и др., «Теория решения изобретательских задач. Учебное пособие I уровня», с. 22 (portal.tpu.ru, accessed 2026-06-26)."
+    },
+    {
+      "id": "P06",
+      "problem_description": "Washing windows is tiring work that has to be repeated constantly, because settling dust quickly makes the glass opaque; in high-rise buildings it is also dangerous. The task is to make this operation far more ideal.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная учебная задача ТРИЗ (упражнение 8). Гин и др., «Теория решения изобретательских задач. Учебное пособие I уровня», с. 31 (portal.tpu.ru, accessed 2026-06-26)."
+    },
+    {
+      "id": "P07",
+      "problem_description": "Comfortable living spaces need a certain level of air humidity to be maintained. The task is to achieve this without using any special device such as a powered humidifier.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная учебная задача ТРИЗ (упражнение 9). Гин и др., «Теория решения изобретательских задач. Учебное пособие I уровня», с. 34 (portal.tpu.ru, accessed 2026-06-26)."
+    },
+    {
+      "id": "P08",
+      "problem_description": "A powerful radar station has a large, massive antenna mounted on a shaft. The antenna is turned only rarely and by hand, then locked on the shaft with a fixing device and bolts. Holding the heavy antenna steady requires large forces, so the bolts must be tightened very hard — which in turn makes them slow and difficult to release and re-aim the antenna.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 34 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P09",
+      "problem_description": "Finding a person buried by a mountain avalanche is very difficult. Many active devices, such as transmitters that signal the buried person's location, have been proposed, but they fail in real conditions: few tourists will carry such a transmitter 'just in case', and its batteries quickly go flat. A reliable way to locate avalanche victims is needed.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 35 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P10",
+      "problem_description": "Metal coatings are deposited onto a part by immersing it in a bath of hot metal-salt solution, where a reduction reaction deposits metal from the solution onto the part's surface. The hotter the solution, the faster the deposition — but high temperatures bring their own drawbacks. A way to speed up the coating without the penalties of high temperature is needed.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 36 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P11",
+      "problem_description": "To keep an aircraft cabin habitable it is sealed and pressurized. In case the cabin loses pressure, the aircraft carries an emergency oxygen supply pumped under pressure into heavy steel cylinders. Several dozen such cylinders are required, which makes the aircraft considerably heavier. How can the emergency oxygen be provided without this weight penalty?",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 47 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P12",
+      "problem_description": "In Academician P. L. Kapitsa's laboratory an artificial 'ball lightning' was studied inside a sealed cylindrical quartz chamber filled with helium at 3 atm. A powerful electromagnetic field creates a pinched plasma discharge that contracts into a spherical clot of plasma. A solenoid around the chamber is used to hold this plasma ball stably at the very centre of the chamber.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 65 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P13",
+      "problem_description": "Tanker accidents have become more frequent, causing large losses of oil and contaminating vast areas of the sea. How can the leakage of liquid cargo out of a tanker's tanks be prevented when the ship is damaged in an accident?",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 67 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P14",
+      "problem_description": "Large modern tankers have a braking distance of several kilometres, which greatly raises their risk of collision. Many measures have been tried to shorten it — reversing the propeller, turning the rudder 90 degrees, braking parachutes — but all are ineffective. By what means can the braking distance of large tankers be shortened?",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 68 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P15",
+      "problem_description": "A factory produces large numbers of cylindrical plastic bottles that must be painted. The colour cannot be mixed into the polymer, so the bottles are spray-painted on the outside and rotated about their axis for even coverage. At the spray gun's minimum setting the bottle is easily left under-coated, while higher settings waste paint and overspray — an even, economical coating method is needed.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 69 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P16",
+      "problem_description": "How can the links of very thin and ultra-thin gold chains be soldered? One metre of such a chain weighs only one gram. A method is needed that can solder tens to hundreds of metres per day: introducing micro-doses of solder into the gaps between links, heating those micro-doses without harming the whole chain, and removing any excess solder.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 187 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P17",
+      "problem_description": "A cooling suit is needed for mine rescuers. To remain wearable it must weigh no more than 28 kg in total; the oxygen apparatus already weighs over 12 kg and the tools 7 kg, leaving only about 9 kg for the suit itself plus its cooling agent and equipment. Within that weight limit the usual cooling agents (dry ice, freon, liquefied gases) cannot deliver enough cooling power. How can adequate cooling be provided within the weight budget?",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 187 (accessed 2026-06-26)."
+    }
+  ]
+}

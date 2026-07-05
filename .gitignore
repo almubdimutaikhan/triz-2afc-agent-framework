@@ -1,0 +1,41 @@
+# ---- secrets ----
+.env
+.env.*
+!.env.example
+
+# ---- python ----
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info/
+.venv/
+.python-version
+
+# ---- OS / editor cruft ----
+.DS_Store
+*.swp
+
+# ---- run outputs & caches (reproducible from the pipeline) ----
+# The on-disk generation/judgement cache. Large and regenerable; keep it local.
+data/
+# Flat CSV exports of every generation and judgement.
+*.csv
+# Rendered/report build artifacts.
+*.html
+*.pdf
+# Built 2AFC pair files.
+pairs*.json
+!results/**/pairs*.json
+
+# ---- archived runs & working scratch (not part of the framework) ----
+runs/
+search/
+casebase.backup*.json
+
+# ---- personal notes / drafts (not for publication) ----
+s.txt
+s2.txt
+t.txt
+feedback.txt

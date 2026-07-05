@@ -1,0 +1,13 @@
+[project]
+name = "triz-on-vs-off-agent"
+version = "0.1.0"
+description = "A reproducible framework for A/B-testing a system prompt with a blind, bias-controlled LLM jury (2AFC). Ships a TRIZ-vs-unprompted creativity study."
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "huggingface-hub[cli]>=1.21.0",
+    "markdown>=3.10.2",
+    "matplotlib>=3.11.0",
+    "pyyaml>=6.0.3",
+    "requests>=2.34.2",
+]

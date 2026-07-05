@@ -1,0 +1,1049 @@
+{
+ "cases": [
+  {
+   "id": "US4966257",
+   "source": "trizbench_patent",
+   "problem_description": "In a vehicle suspension strut a piston rod slides through a guide while absorbing shocks. The guide must firmly resist strong transverse forces on the rod so it stays accurately aligned. Conventionally, handling larger transverse forces means enlarging the bearing contact along the rod, but a bigger contact area raises engagement pressure, friction and wear, and adds bulk. Design a guiding arrangement for the sliding rod that withstands high transverse forces while keeping the sliding contact area small, so friction and wear stay low.",
+   "plus_factor_index": 10,
+   "minus_factor_index": 5,
+   "principle_index": [
+    15
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5485307",
+   "source": "trizbench_patent",
+   "problem_description": "A compact prism binocular is valued for its short, fixed body. Users want it to adapt to different needs, for example switching between a normal and an increased magnification, or suiting both spectacle wearers and non-wearers, which normally calls for bulkier optics or a longer body. Devise a way to give a compact binocular this added versatility without enlarging or changing its short external form.",
+   "plus_factor_index": 35,
+   "minus_factor_index": 12,
+   "principle_index": [
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5485359",
+   "source": "trizbench_patent",
+   "problem_description": "The buttons of a television or VCR remote control are hard to find and read in a darkened room. Adding a powered light to the remote would illuminate the buttons but drains its batteries and adds cost and a switch. Find a way to make a hand-held remote control's buttons visible in the dark without giving the remote its own energy-consuming light source.",
+   "plus_factor_index": 18,
+   "minus_factor_index": 19,
+   "principle_index": [
+    25
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5493580",
+   "source": "trizbench_patent",
+   "problem_description": "Steelmaking in an electric arc furnace produces filter dust rich in valuable metals such as zinc, lead and cadmium oxides, which are currently lost. Recovering these metals is desirable, but conventional treatment such as reprocessing the dust in a rotary furnace consumes large amounts of energy. Devise a process that recovers the valuable metals from electric-arc-furnace filter dust while keeping energy consumption low.",
+   "plus_factor_index": 23,
+   "minus_factor_index": 22,
+   "principle_index": [
+    1,
+    35,
+    31
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5543179",
+   "source": "trizbench_patent",
+   "problem_description": "In a magnetic recording device, particles and binder shed from the tape build up as hard, strongly adhering deposits on the magnetic head, causing a spacing loss that degrades signal output. These deposits resist simple solvent-and-wipe cleaning. Create a way to remove the tenacious deposits from the delicate magnetic head surface without abrading or damaging the head itself.",
+   "plus_factor_index": 30,
+   "minus_factor_index": 14,
+   "principle_index": [
+    16,
+    10,
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5568961",
+   "source": "trizbench_patent",
+   "problem_description": "An automotive seat reclines by a pivot joining the tubular-steel seat-back frame to the seat-base frame. The pivot must be strong enough to hold position and survive crash loads. Strengthening it conventionally means heavier, thicker framing, which adds undesirable weight to the seat. Design a seat-back-to-base pivot connection that is highly strong yet does not increase the seat frame's weight.",
+   "plus_factor_index": 14,
+   "minus_factor_index": 1,
+   "principle_index": [
+    1,
+    15
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5569009",
+   "source": "trizbench_patent",
+   "problem_description": "Tapping screws are widely used because they need no pre-formed female thread, but they have low return torque and tend to rotate loose under vibration, hurting reliability. Locking features such as extra washers, adhesives or special nuts add parts and manufacturing complexity. Devise a screw that resists loosening under vibration after tightening while remaining simple and cheap to manufacture as an ordinary screw.",
+   "plus_factor_index": 27,
+   "minus_factor_index": 36,
+   "principle_index": [
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5680467",
+   "source": "trizbench_patent",
+   "problem_description": "A digital hearing aid must detect and compensate for acoustic feedback, the squeal caused by sound leaking back to the microphone. Tracking the feedback path accurately lets the aid cancel it, but continuously changing the filter to chase the feedback can make the device's behaviour unstable. Find a way to accurately measure and compensate the acoustic feedback in a hearing aid without compromising the stability of its operation.",
+   "plus_factor_index": 28,
+   "minus_factor_index": 13,
+   "principle_index": [
+    32,
+    25,
+    13
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5694827",
+   "source": "trizbench_patent",
+   "problem_description": "A dump truck raises and lowers its body with a multi-stage telescoping hydraulic cylinder. When the body is lowered it slams hard at the end of travel, so cushioning is needed over the last several inches of stroke. Simply slowing the whole motion to soften the landing wastes time. Devise a way to cushion the dump body over the final part of its lowering stroke without reducing the overall lowering speed.",
+   "plus_factor_index": 15,
+   "minus_factor_index": 9,
+   "principle_index": [
+    3,
+    35,
+    5
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2312704",
+   "source": "trizbench_patent",
+   "problem_description": "The heavy steel substructure of an offshore platform must be lifted from the seabed and recovered. Its great weight makes it extremely hard and hazardous to move with conventional heavy-lift vessels and rigging. Find a way to lift and relocate the massive offshore substructure that reduces the effective load to be moved, avoiding the danger and difficulty of lifting its full weight directly.",
+   "plus_factor_index": 1,
+   "minus_factor_index": 30,
+   "principle_index": [
+    22
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2315973",
+   "source": "trizbench_patent",
+   "problem_description": "Irrigating plants wastes much water to evaporation and runoff, especially in hot conditions where surface water evaporates before it reaches the roots. Simply supplying more water is wasteful and costly. Devise an irrigation approach that delivers water directly to plant roots with minimal loss of water, even in hot weather, without relying on a larger water supply.",
+   "plus_factor_index": 23,
+   "minus_factor_index": 17,
+   "principle_index": [
+    31
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2315980",
+   "source": "trizbench_patent",
+   "problem_description": "A sports shoe must conform closely to feet of varying shape and be quick and easy to open and put on. Conventional lace-and-tongue arrangements adjust the fit but add bulk, extra parts, and fiddly operation. Devise a shoe closure that lets the upper change shape to fit the foot and open wide for entry, without the bulk of a conventional tongue-and-lace system.",
+   "plus_factor_index": 12,
+   "minus_factor_index": 8,
+   "principle_index": [
+    2,
+    35
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2315994",
+   "source": "trizbench_patent",
+   "problem_description": "A vehicle's windscreen-washer bottle holds a limited amount of fluid and must be refilled by hand when it runs out. Enlarging the reservoir to hold more wastes scarce space in the vehicle. Find a way to keep the washer reservoir supplied with more water during use without increasing the size of the on-board container.",
+   "plus_factor_index": 26,
+   "minus_factor_index": 7,
+   "principle_index": [
+    25
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2316044",
+   "source": "trizbench_patent",
+   "problem_description": "Decorative wheel trims are easily stolen or shaken loose, so they need strong, secure retention on the wheel. But strong retention normally makes the trim awkward for the owner to fit and remove. Devise a wheel trim that is held firmly and securely against unwanted removal, yet remains easy for an authorised user to take off and refit.",
+   "plus_factor_index": 10,
+   "minus_factor_index": 33,
+   "principle_index": [
+    1,
+    15
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2350145",
+   "source": "trizbench_patent",
+   "problem_description": "An emergency escape ladder must be deployable instantly and effortlessly by a frightened person during a fire, yet it must store compactly and unobtrusively when not in use. Making deployment quick and simple usually conflicts with compact, out-of-the-way storage. Devise an escape ladder that deploys simply and immediately while stowing away compactly.",
+   "plus_factor_index": 33,
+   "minus_factor_index": 35,
+   "principle_index": [
+    15,
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2350268",
+   "source": "trizbench_patent",
+   "problem_description": "In a multi-port data communication switch, every packet passes through one shared central memory, with many ports competing to write incoming data and read outgoing data. Under heavy contention, transmit data can be starved or lost, reducing reliability. Find a way to schedule access to the shared memory so that no packet data is lost, without sacrificing the switch's reliable operation.",
+   "plus_factor_index": 24,
+   "minus_factor_index": 27,
+   "principle_index": [
+    10
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "WO01-13760",
+   "source": "trizbench_patent",
+   "problem_description": "A device is needed to stimulate blood flow in the scalp to help treat hair loss. To be effective it must make firm, working contact with the scalp skin through existing hair and clear away dead surface cells, yet it must not cut, snag, or pull out the hair that is still present. Devise a scalp-stimulation tool that reaches and works the skin effectively without harming the existing hair.",
+   "plus_factor_index": 7,
+   "minus_factor_index": 5,
+   "principle_index": [
+    17,
+    4
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "WO01-70445",
+   "source": "trizbench_patent",
+   "problem_description": "An automotive trim panel covering an airbag must carry a hidden line of weakness so it tears open predictably when the airbag deploys. The score depth must be controlled very accurately: too deep marks or weakens the visible surface, too shallow fails to tear reliably. Devise a way to form the line of weakness in the trim accurately and repeatably in a single pass.",
+   "plus_factor_index": 28,
+   "minus_factor_index": 3,
+   "principle_index": [
+    5,
+    26
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5746360",
+   "source": "trizbench_patent",
+   "problem_description": "Coat-hanger storage bags compress clothing into minimal space but typically allow only vertical hanging, which folds and wrinkles garments and offers little protection from insects. Devise a hanging garment-storage bag that stores clothes compactly without folding and wrinkling them, while also keeping insects out.",
+   "plus_factor_index": 7,
+   "minus_factor_index": 31,
+   "principle_index": [
+    2,
+    30
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5992588",
+   "source": "trizbench_patent",
+   "problem_description": "A wheeled suitcase rolls on small guide rollers set into its face. To resist tipping over it needs a wide base between the rollers, but the rollers are mounted close together and recessed, giving poor stability. Improve the suitcase's rolling stability and support without lengthening or enlarging the case body itself.",
+   "plus_factor_index": 10,
+   "minus_factor_index": 3,
+   "principle_index": [
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6099658",
+   "source": "trizbench_patent",
+   "problem_description": "An automated, power-driven swimming-pool cleaner must clean the floor and walls quickly. Driving it faster to finish sooner tends to make it stir up settled debris or lose traction on the walls, spreading dirt and clouding the water. Devise a way for the pool cleaner to work faster without stirring up the very debris it is meant to collect.",
+   "plus_factor_index": 9,
+   "minus_factor_index": 31,
+   "principle_index": [
+    24
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6299550",
+   "source": "trizbench_patent",
+   "problem_description": "A golf ball should fly a greater distance when struck. Designs that increase carry distance often change the ball's speed or feel off the clubface, trading one quality for the other. Devise a golf-ball construction that increases the distance the ball travels without reducing its speed off the club.",
+   "plus_factor_index": 3,
+   "minus_factor_index": 9,
+   "principle_index": [
+    13
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6272687",
+   "source": "trizbench_patent",
+   "problem_description": "Healthcare workers suffer many through-the-skin injuries from needles, scalpels and other sharp instruments. A protective material must strongly resist puncture by these sharp points, yet remain thin and flexible enough to be comfortable and not hinder dexterity. Devise a flexible material that strongly resists puncture by sharp instruments while staying flexible and easy to work in.",
+   "plus_factor_index": 14,
+   "minus_factor_index": 33,
+   "principle_index": [
+    3,
+    15,
+    40
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2307485",
+   "source": "trizbench_patent",
+   "problem_description": "A washing machine cleans better by injecting a steady stream of air bubbles into the wash water over a long period. Sustaining the airflow continuously normally demands a powerful, force-hungry pump. Devise a way to generate a sustained stream of bubbles in the wash water over an extended time without requiring a large driving force.",
+   "plus_factor_index": 15,
+   "minus_factor_index": 10,
+   "principle_index": [
+    4,
+    18
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6296160",
+   "source": "trizbench_patent",
+   "problem_description": "An ordinary clothes hanger creases and ruffles the collar and neck of hung garments and gives no tidy way to hold ties, scarves or belts. Reducing this garment damage and adding the extra holding functions usually means a more complicated hanger. Devise a clothes hanger that protects collars from creasing and neatly holds accessories, without becoming complex.",
+   "plus_factor_index": 31,
+   "minus_factor_index": 36,
+   "principle_index": [
+    8,
+    5
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5493551",
+   "source": "trizbench_patent",
+   "problem_description": "A disk playback machine should accept and play discs of several different diameters, loading and centring each one correctly with no fuss for the user. Handling multiple disc sizes easily normally requires a complex, multi-part loading mechanism. Devise a player that loads and plays discs of different diameters simply, without a complex loading mechanism.",
+   "plus_factor_index": 33,
+   "minus_factor_index": 36,
+   "principle_index": [
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6293565",
+   "source": "trizbench_patent",
+   "problem_description": "In-line roller skates give skaters speed and forward maneuverability, but their linearly aligned wheels make sideways movement difficult and can cause loss of control. Allowing lateral motion usually compromises the skate's speed and stability. Devise an in-line skate that permits controlled lateral movement without sacrificing the speed and stability skaters expect.",
+   "plus_factor_index": 9,
+   "minus_factor_index": 31,
+   "principle_index": [
+    17,
+    14,
+    3
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2309876",
+   "source": "trizbench_patent",
+   "problem_description": "Garden ponds become fouled by algae, which harms the water and the fish. Methods that clear algae effectively tend to require complex, multi-chamber equipment. Devise a way to remove algae from pond water and keep it clean using a simple, uncomplicated unit.",
+   "plus_factor_index": 36,
+   "minus_factor_index": 30,
+   "principle_index": [
+    2
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5999869",
+   "source": "trizbench_patent",
+   "problem_description": "In electric power steering, a motor assists the driver based on the torque sensed at the steering wheel. If the assist motor drives the wrong way or overshoots, it creates dangerous, unintended steering forces. Preventing these harmful actions must not delay or shorten the responsive assistance the driver needs. Devise a control that prevents harmful, wrong-direction motor assistance without degrading the steering's responsiveness.",
+   "plus_factor_index": 31,
+   "minus_factor_index": 15,
+   "principle_index": [
+    23
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5651055",
+   "source": "trizbench_patent",
+   "problem_description": "A telephone answering system lets callers navigate touch-tone menus to reach a particular person or option. Making it quick and easy for callers to operate conflicts with reliably capturing the correct routing so messages are not misdirected or lost. Devise an answering system that is easy for callers to operate while reliably capturing who and what the caller wants.",
+   "plus_factor_index": 33,
+   "minus_factor_index": 24,
+   "principle_index": [
+    10,
+    28
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5650990",
+   "source": "trizbench_patent",
+   "problem_description": "In a mini-disk player, a tray loads and unloads the disk cartridge. The mechanism must apply enough force to seat and eject the cartridge smoothly, but stronger loading forces tend to jar the precisely positioned disc. Devise a tray mechanism that loads and unloads the cartridge smoothly and firmly without disturbing the stable, accurate seating of the disc.",
+   "plus_factor_index": 10,
+   "minus_factor_index": 13,
+   "principle_index": [
+    15
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5650983",
+   "source": "trizbench_patent",
+   "problem_description": "A magneto-optical mini-disc recorder overwrites data using a magnetic head that applies a modulated field to the spinning disc. The head must sit very close to the disc to write reliably, yet be light and compact to move quickly. Making it lighter and smaller risks weakening or misplacing the field and causing recording errors. Devise a recording head that stays light and compact while reliably writing data without errors.",
+   "plus_factor_index": 2,
+   "minus_factor_index": 24,
+   "principle_index": [
+    5
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6220333",
+   "source": "trizbench_patent",
+   "problem_description": "Bar codes printed or labelled onto products can rub off, peel, or be damaged, so the identifying information is lost and scans fail. Marking the code more durably must not make it unreliable to read. Devise a way to mark a durable, permanent bar code onto an article during its manufacture so the information is not lost and still scans reliably.",
+   "plus_factor_index": 24,
+   "minus_factor_index": 27,
+   "principle_index": [
+    17,
+    28,
+    13
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6176374",
+   "source": "trizbench_patent",
+   "problem_description": "Sensitive electronic components such as semiconductor chips are easily damaged by mechanical shock and pressure during storage and shipping. A carrier must cushion them against impact and pressure, yet remain strong enough to stack and protect the load. Devise a component carrier that protects fragile chips from damaging shock and pressure while staying structurally strong.",
+   "plus_factor_index": 11,
+   "minus_factor_index": 14,
+   "principle_index": [
+    9,
+    3
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6065555",
+   "source": "trizbench_patent",
+   "problem_description": "A single-wheeled wheelbarrow is handy in tight spaces but tiring to push by hand over rough ground such as pebbles, bricks or soft fields. Adding powered assistance helps, but a poorly matched drive wastes energy and battery. Devise a power-assisted wheelbarrow that eases the effort of moving heavy loads over rough ground while using its energy efficiently.",
+   "plus_factor_index": 19,
+   "minus_factor_index": 22,
+   "principle_index": [
+    23
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5824184",
+   "source": "trizbench_patent",
+   "problem_description": "Adhesive tapes carry a peel-off backing that must be removed before use, which is fiddly to start and separate by hand, especially on thin or wide tapes. Making removal easier should not require lengthening or enlarging the tape or its handling. Devise a way to start and remove the peel-off backing from adhesive tape easily, without adding to the tape's length or bulk.",
+   "plus_factor_index": 33,
+   "minus_factor_index": 3,
+   "principle_index": [
+    3
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6099018",
+   "source": "trizbench_patent",
+   "problem_description": "A snowboard binding must let the rider step in quickly and hold the boot securely, but step-in mechanisms can misalign the boot or release unexpectedly, risking injury. Reducing this hazard usually means a bulkier, awkwardly shaped binding. Devise a step-in snowboard binding that guides and holds the boot safely without an unwieldy shape.",
+   "plus_factor_index": 31,
+   "minus_factor_index": 12,
+   "principle_index": [
+    1,
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6098208",
+   "source": "trizbench_patent",
+   "problem_description": "Protective pads for baseball players must cover and shield a large area of the arm, ribs or calf from impacts. Increasing the protected area normally adds weight that slows and tires the player. Devise protective padding that shields a large body area from impact while staying light enough not to hinder the player.",
+   "plus_factor_index": 5,
+   "minus_factor_index": 1,
+   "principle_index": [
+    14,
+    30
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5569282",
+   "source": "trizbench_patent",
+   "problem_description": "Surgical scalpels leave a sharp blade exposed, causing accidental cuts and injuries when the instrument is set down, passed, or disposed of. Making the blade safe when not in use must not hinder the surgeon's easy, precise cutting. Devise a scalpel that protects against accidental injury from the blade when it is not cutting, while remaining easy and natural to use.",
+   "plus_factor_index": 31,
+   "minus_factor_index": 33,
+   "principle_index": [
+    7
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5570342",
+   "source": "trizbench_patent",
+   "problem_description": "A disk cartridge protects a recordable disc but needs openings on both sides for the optical pickup and the magnetic field head. Leaving large openings exposes the disc to dust and damage, while covering and managing both openings adds mechanical complexity. Devise a cartridge that gives access to both sides of the disc while protecting it, without a complex mechanism.",
+   "plus_factor_index": 5,
+   "minus_factor_index": 36,
+   "principle_index": [
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5650591",
+   "source": "trizbench_patent",
+   "problem_description": "An electronic unit in a vehicle's engine bay must be sealed in a waterproof casing. But rapid temperature swings change the pressure inside a sealed box, deforming it and drawing water in through the seams. Devise a casing that keeps water out of the electronics despite rapid ambient temperature changes.",
+   "plus_factor_index": 31,
+   "minus_factor_index": 17,
+   "principle_index": [
+    31
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5667294",
+   "source": "trizbench_patent",
+   "problem_description": "A flashlight with a rigid body is simple to switch on and off but cannot bend or wrap around objects, limiting how and where it can be used for illumination or signalling. Making it flexible and adaptable to many shapes and uses should not make it harder to operate. Devise an easy-to-use flashlight that can flex and adapt to varied shapes and mounting situations.",
+   "plus_factor_index": 33,
+   "minus_factor_index": 35,
+   "principle_index": [
+    15,
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5680468",
+   "source": "trizbench_patent",
+   "problem_description": "In a car audio system, the ideal equalization changes when, for example, a powered convertible top is raised or lowered, altering the cabin acoustics. Keeping good sound across these changes by hand means the listener must constantly re-adjust the tone controls. Devise a way to maintain proper speaker equalization as the vehicle's acoustic environment changes, without the listener having to keep readjusting it.",
+   "plus_factor_index": 16,
+   "minus_factor_index": 33,
+   "principle_index": [
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5724415",
+   "source": "trizbench_patent",
+   "problem_description": "A coin-operated device such as a payphone collects coins in a receptacle that staff must empty periodically at considerable labour cost. It is desirable for the receptacle to hold as many coins as possible, but the device's footprint and opening limit how large it can be. Devise a way to greatly increase the coin-holding capacity of the receptacle without enlarging the space it occupies in the device.",
+   "plus_factor_index": 7,
+   "minus_factor_index": 5,
+   "principle_index": [
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5724478",
+   "source": "trizbench_patent",
+   "problem_description": "An in-line water heater for a spa or hot tub heats water flowing through it. Much heat is lost to the surrounding heater body instead of reaching the water, wasting energy. Capturing more of that heat should not require a large heat-exchange surface or a bulky unit. Devise a flow-through water heater that transfers heat into the water with little energy loss, without a large heating body.",
+   "plus_factor_index": 22,
+   "minus_factor_index": 6,
+   "principle_index": [
+    1,
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6099150",
+   "source": "trizbench_patent",
+   "problem_description": "A bicycle is safer with a brake light that signals to following traffic when the rider brakes. The light should switch on and off automatically and reliably with the braking action, without the rider operating it and without quickly draining its battery. Devise a bicycle brake light that turns on and off automatically with braking, simply and with long-lasting operation.",
+   "plus_factor_index": 33,
+   "minus_factor_index": 15,
+   "principle_index": [
+    40
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6179727",
+   "source": "trizbench_patent",
+   "problem_description": "Putting accounts for nearly half of a golfer's strokes, so a putter that adapts to different lies, distances and stroke styles is valuable. But adding versatility to a putter usually makes it a complicated, specialised instrument. Devise a putter that adapts well to varied putting situations while remaining simple in construction.",
+   "plus_factor_index": 35,
+   "minus_factor_index": 36,
+   "principle_index": [
+    4,
+    20
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6053805",
+   "source": "trizbench_patent",
+   "problem_description": "Sanding wallboard during construction throws off large quantities of fine dust. Capturing essentially all of that dust as it is generated normally requires bulky vacuum hoses, motors and bags attached to the sander. Devise a wallboard sander that collects the large amount of dust it produces without a complex, cumbersome vacuum arrangement.",
+   "plus_factor_index": 26,
+   "minus_factor_index": 36,
+   "principle_index": [
+    13,
+    3,
+    5
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6290196",
+   "source": "trizbench_patent",
+   "problem_description": "During surgery an instrument must be held and moved through a small opening in the body, yet swung over a wide range of angles to reach the work site. A long reach and wide pivot range normally demand bulky support hardware around the limited opening. Devise a holder that lets a surgical instrument pivot over a large angle through a small body opening without taking up much space.",
+   "plus_factor_index": 3,
+   "minus_factor_index": 7,
+   "principle_index": [
+    3,
+    7,
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6166359",
+   "source": "trizbench_patent",
+   "problem_description": "Welding a new branch onto a pipeline already carrying flowing fluid, sometimes underwater, requires heating the joint to welding temperature. But the flowing contents and surrounding water carry heat away, wasting energy and making it hard to reach welding temperature. Devise a way to bring the weld zone to the needed temperature efficiently, with little heat lost to the flowing fluid and the water.",
+   "plus_factor_index": 17,
+   "minus_factor_index": 22,
+   "principle_index": [
+    1,
+    28
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6203313",
+   "source": "trizbench_patent",
+   "problem_description": "Candles are made by setting a wick within a solid body of wax. Makers want candles that can take varied decorative forms, colours and arrangements, but shaping wax into adaptable, varied forms tends to make the candle body weak and prone to slumping or breaking. Devise a candle that can take varied, adaptable forms while keeping its body strong and stable.",
+   "plus_factor_index": 35,
+   "minus_factor_index": 14,
+   "principle_index": [
+    1,
+    35
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5724625",
+   "source": "trizbench_patent",
+   "problem_description": "A camera shutter must open and close very fast to set short exposures. Driving the shutter blades faster increases the stress and pressure on the delicate mechanism, risking damage and wear. Devise a shutter mechanism that operates at high speed without subjecting its parts to damaging stress.",
+   "plus_factor_index": 9,
+   "minus_factor_index": 11,
+   "principle_index": [
+    6,
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6182299",
+   "source": "trizbench_patent",
+   "problem_description": "A baseball catcher's or umpire's chest protector must strongly absorb high-speed ball impacts to protect the chest, stomach and neck. Making it more protective and rugged usually makes it heavy and stiff, hindering the wearer's movement. Devise a chest protector that strongly shields the body from ball impacts while remaining easy to move and play in.",
+   "plus_factor_index": 14,
+   "minus_factor_index": 33,
+   "principle_index": [
+    2,
+    3,
+    40
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5900819",
+   "source": "trizbench_patent",
+   "problem_description": "A drowsy driver drifts, weaves, and varies speed before fully falling asleep, risking a crash. A system to detect this dangerous drowsiness and warn the driver must work automatically from the vehicle's behaviour, without the driver operating or wearing anything. Devise a way to reliably detect a driver becoming drowsy and alert them, working automatically and unobtrusively.",
+   "plus_factor_index": 30,
+   "minus_factor_index": 33,
+   "principle_index": [
+    1,
+    5,
+    35
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6050219",
+   "source": "trizbench_patent",
+   "problem_description": "In an automated dairy, cows are milked by robots while standing on a slowly moving floor that carries each animal a set distance and time before it exits. Milking must finish within that fixed travel time; if the cycle is too short some cows are not fully milked, yet lengthening every cycle wastes time across the herd. Devise an arrangement that gives each cow enough time to be milked without wasting overall time.",
+   "plus_factor_index": 15,
+   "minus_factor_index": 25,
+   "principle_index": [
+    20,
+    23
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6260276",
+   "source": "trizbench_patent",
+   "problem_description": "A hair clipper is more useful if the user can adjust the cutting length for different styles. Adding length adjustment normally means extra combs, mechanisms and parts that complicate the clipper. Devise a hair clipper whose cutting length is easily adjustable without making the machine complex.",
+   "plus_factor_index": 35,
+   "minus_factor_index": 36,
+   "principle_index": [
+    15,
+    6
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6306040",
+   "source": "trizbench_patent",
+   "problem_description": "A telescopic baton extends for use and collapses for carrying, so it must reliably lock in its extended or collapsed position and not slip. Adding a secure retaining mechanism usually means more parts and assembly cost. Devise a telescopic baton that holds its telescoped position firmly with a simple, easily assembled retaining arrangement.",
+   "plus_factor_index": 7,
+   "minus_factor_index": 36,
+   "principle_index": [
+    1,
+    15
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "EP1928277A",
+   "source": "trizbench_patent",
+   "problem_description": "Cushioning insoles made of foams gradually lose their shock-absorbing ability: repeated use compresses the foam's air pockets until the material turns porous and stops absorbing energy. The insole should also breathe and resist bacteria and fungus. Devise a shoe sole or insole that keeps its cushioning and energy absorption over long use while staying ventilated.",
+   "plus_factor_index": null,
+   "minus_factor_index": null,
+   "principle_index": [
+    40,
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "EP1215182B1",
+   "source": "trizbench_patent",
+   "problem_description": "Ceramic tiles are made from costly mineral raw materials such as clay and feldspar fired into a crystalline material. Makers want to lower cost by using cheaper industrial by-products in the mix, but doing so normally degrades the tile's quality and properties. Devise a tile material that incorporates cheaper by-product components while retaining good ceramic-tile properties.",
+   "plus_factor_index": null,
+   "minus_factor_index": null,
+   "principle_index": [
+    35
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "EP2539508A1",
+   "source": "trizbench_patent",
+   "problem_description": "A railway sleeper must be strong and durable enough to carry rail loads and resist the elements, yet light and economical to make. Achieving the needed strength and rigidity usually adds weight and material cost. Devise a railway sleeper that provides the required strength and durability while keeping its weight and material use low.",
+   "plus_factor_index": null,
+   "minus_factor_index": null,
+   "principle_index": [
+    40
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US10345449",
+   "source": "trizbench_patent",
+   "problem_description": "A system for recognizing sequential input such as handwriting or speech must interpret long, arbitrary sequences reliably while remembering earlier context. Making such a recognizer reliable across varied inputs normally makes it complex and difficult to build and train. Devise a sequence-recognition approach that reliably handles arbitrary input sequences while remaining simple to construct.",
+   "plus_factor_index": 32,
+   "minus_factor_index": 27,
+   "principle_index": [
+    28
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "GB2366423",
+   "source": "trizbench_patent",
+   "problem_description": "In a computer system many data transactions compete for a shared data bus. Scheduling them to execute concurrently with the right gaps maximizes throughput, but coordinating this automatically tends to require complex control hardware. Devise a way to automatically schedule overlapping bus transactions for efficient concurrent use without complex control circuitry.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 36,
+   "principle_index": [],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "AU720231",
+   "source": "trizbench_patent",
+   "problem_description": "A powered revolving door should switch between different driving modes, such as speed and opening behaviour, to suit conditions. Conventionally, changing its operating modes requires altering the hardware. Devise a way to change the revolving door's driving modes flexibly without additional hardware changes.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 36,
+   "principle_index": [],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5647173",
+   "source": "trizbench_patent",
+   "problem_description": "A powered revolving door should move smoothly and safely with the people pushing it, assisting rather than forcing. Having the motor supply the whole rotating force makes the door feel heavy and unresponsive and needs a large drive. Devise a revolving-door drive that assists the users' own pushing effort rather than supplying all the force, without a complex, oversized motor system.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 36,
+   "principle_index": [],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5687451",
+   "source": "trizbench_patent",
+   "problem_description": "A revolving or pivoting door needs powered opening and a controlled, reliable closing. Combining a stored-energy closing device with powered opening usually demands a complex assembly of springs, pumps and motors. Devise a door drive that opens under power and closes in a controlled way using a simpler arrangement.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 36,
+   "principle_index": [],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5878529",
+   "source": "trizbench_patent",
+   "problem_description": "A building entrance combines a revolving door with sliding doors that normally move in coordination, but sometimes must operate independently, for example with the revolving door parked open. Coordinating and also independently controlling both door types tends to need complex linkage and control. Devise an entrance system whose revolving and sliding doors can work together or independently without a complex control mechanism.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 36,
+   "principle_index": [],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6090087",
+   "source": "trizbench_patent",
+   "problem_description": "A catheterised patient's urine drains continuously into a bag, which prevents the bladder from filling and emptying in its normal cycle. An apparatus that automatically stores urine and releases it periodically would preserve normal bladder function, but automating the open and close cycle usually adds complexity. Devise a simple apparatus, connected between catheter and collection bag, that automatically stores and releases urine to mimic normal bladder function.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 36,
+   "principle_index": [],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6099428",
+   "source": "trizbench_patent",
+   "problem_description": "A continuously variable automatic transmission for a car must combine the variable transmission, a starting device and gearing. Packing all these functions in makes the unit wide, but engine bays have limited space. Devise a continuously variable automatic transmission that fits a short overall width without sacrificing its functions.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 36,
+   "principle_index": [],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6108975",
+   "source": "trizbench_patent",
+   "problem_description": "An automatic operator for a swing door transmits power from a motor to the door, conventionally through many gears, which raises cost and bulk and makes it hard to build one unit usable on either left- or right-hung doors. Devise a swing-door operator that drives the door compactly and works on doors of either hand, without a large gear assembly.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 36,
+   "principle_index": [],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6543691",
+   "source": "trizbench_patent",
+   "problem_description": "A bar code on a part is read to identify it, but it would be more useful if a single code could also carry secondary information, for example to control a manufacturing step. Packing more information in normally means a longer or larger code. Devise a way to place both primary and secondary information in a bar code without enlarging the code.",
+   "plus_factor_index": 35,
+   "minus_factor_index": 4,
+   "principle_index": [
+    1
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5040501",
+   "source": "trizbench_patent",
+   "problem_description": "A valve controlling the flow of liquids or gases suffers erosion, corrosion and wear of its sealing surfaces over time, shortening its working life. Making the valve parts more wear-resistant by bulking them up reduces flow performance. Devise valve components that resist erosion and last far longer in service without compromising the valve's function.",
+   "plus_factor_index": 15,
+   "minus_factor_index": 14,
+   "principle_index": [
+    3
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US3556918",
+   "source": "trizbench_patent",
+   "problem_description": "A cleaning pad should both hold and dispense cleaning liquid like a sponge and scour away grease like an abrasive. A soft sponge cannot scour and a hard scourer cannot hold liquid, and combining them into one pad that is also easy to manufacture is difficult. Devise a single cleaning sheet that both retains and dispenses liquid and scours, and is easy to make.",
+   "plus_factor_index": 32,
+   "minus_factor_index": 13,
+   "principle_index": [
+    13
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5832187",
+   "source": "trizbench_patent",
+   "problem_description": "Small fires in remote fields and woodlands must be spotted the instant they start, over very large areas, and acted on before they spread. Watching huge areas closely enough to catch tiny new fires normally requires vast resources on the ground. Devise a way to detect small fires as soon as they break out across a very large area and respond to them.",
+   "plus_factor_index": 6,
+   "minus_factor_index": 26,
+   "principle_index": [
+    2
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US4226356",
+   "source": "trizbench_patent",
+   "problem_description": "A canned or sealed beverage is often awkward to drink from directly and needs a separate straw. Building a straw into the container so it becomes available when opened adds parts and complexity to the container. Devise a drinks container with an integral straw that presents itself on opening, without making the container complex to produce.",
+   "plus_factor_index": 36,
+   "minus_factor_index": 33,
+   "principle_index": [
+    9,
+    24
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US4681412",
+   "source": "trizbench_patent",
+   "problem_description": "A contact lens corrects vision but offers no protection from glare, so in bright light the wearer is dazzled. A lens that dims bright light must not stay dark in dim conditions, where it would block needed light. Devise a contact lens that automatically reduces bright light reaching the eye while staying clear in low light.",
+   "plus_factor_index": 35,
+   "minus_factor_index": 18,
+   "principle_index": [
+    1,
+    6,
+    22
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US4588395",
+   "source": "trizbench_patent",
+   "problem_description": "A catheter or probe is guided to a precise spot inside the body and must then release a substance exactly there, controlled from outside the body. Doing this reliably without the mechanism harming surrounding tissue is difficult. Devise a catheter that reliably ejects material at its internal tip under external control without harming the body.",
+   "plus_factor_index": 27,
+   "minus_factor_index": 31,
+   "principle_index": [
+    1,
+    35
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US3933311",
+   "source": "trizbench_patent",
+   "problem_description": "Fencing is wanted that is cheap, lightweight, easy to assemble, and able to serve an extra function such as irrigating adjacent plants. Adding such functions to a fence normally makes it complicated and material-heavy. Devise an easily assembled fence that can also irrigate nearby plants without becoming complex or using much material.",
+   "plus_factor_index": 36,
+   "minus_factor_index": 26,
+   "principle_index": [
+    3,
+    10
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US6898484",
+   "source": "trizbench_patent",
+   "problem_description": "An automated robotic manipulator must know the precise position of the workpiece and tool to do its job. Obtaining accurate position automatically across a workspace normally requires elaborate fixed sensors or calibration. Devise a way for the robot to obtain accurate position information of the work and tool automatically, without elaborate fixed metrology.",
+   "plus_factor_index": 38,
+   "minus_factor_index": 28,
+   "principle_index": [
+    10,
+    28
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US3842432",
+   "source": "trizbench_patent",
+   "problem_description": "A magnetic tape system must both read or write the tape with a transducer and drive the tape past it. Using separate mechanisms for sensing and driving complicates the path and risks damaging or mistracking the delicate tape. Devise a simple mechanism that simultaneously couples a transducer to the tape and drives it, without harming or mistracking the tape.",
+   "plus_factor_index": 31,
+   "minus_factor_index": 37,
+   "principle_index": [
+    1,
+    2
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US4127693",
+   "source": "trizbench_patent",
+   "problem_description": "Reflectors used outdoors on highways gradually collect dust and dirt on their forward-facing surfaces, which dims their reflection and makes them unreliable over time. Devise a reflector whose shape keeps it reflecting reliably outdoors despite the accumulation of dust and dirt.",
+   "plus_factor_index": 12,
+   "minus_factor_index": 27,
+   "principle_index": [
+    40
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US4273345",
+   "source": "trizbench_patent",
+   "problem_description": "Roller skates let people skate on dry ground but cannot perform the spins, spirals and free-skating moves possible on ice skates, because their wheels constrain motion. Making a roller skate capable of these moves must not make it unreliable or hard to use. Devise a roller skate that lets the skater perform ice-skating-like manoeuvres while remaining easy and reliable to use.",
+   "plus_factor_index": 33,
+   "minus_factor_index": 27,
+   "principle_index": [
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US5462001",
+   "source": "trizbench_patent",
+   "problem_description": "A recreational watercraft towed behind a motorboat is controlled only by the rider shifting their weight, which is tiring and demands balance and skill. Making it easier to control normally means adding complex steering mechanisms. Devise a towed watercraft that is easy to control without a complex control mechanism.",
+   "plus_factor_index": 33,
+   "minus_factor_index": 36,
+   "principle_index": [
+    17
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US3148535",
+   "source": "trizbench_patent",
+   "problem_description": "Vehicle wheels must be inspected for material flaws, but removing each wheel from the vehicle to inspect it is slow and laborious. Inspecting the wheel in place and accurately detecting internal flaws normally needs complex equipment. Devise a way to inspect the material of a vehicle wheel for flaws without removing it from the vehicle and without overly complex apparatus.",
+   "plus_factor_index": 36,
+   "minus_factor_index": 37,
+   "principle_index": [
+    10,
+    15
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  },
+  {
+   "id": "US3050824",
+   "source": "trizbench_patent",
+   "problem_description": "Pedestrians at night are hard for drivers to see. Reflective safety clothing that bounces headlight light back to the driver helps, but making cloth strongly retroreflective is awkward and costly to manufacture. Devise reflective safety clothing that is highly visible in headlights yet easy to manufacture.",
+   "plus_factor_index": 32,
+   "minus_factor_index": 18,
+   "principle_index": [
+    24
+   ],
+   "memorization_risk": "unchecked",
+   "notes": "Derived from US/GB/EP patent; solution withheld; gold = patent's resolved contradiction."
+  }
+ ]
+}

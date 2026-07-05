@@ -1,0 +1,6 @@
+Solve the following engineering problem. Give a single concrete, physically realizable solution in roughly 120-180 words. End with one short paragraph explaining why it works.
+
+PROBLEM:
+{problem_description}
+
+Then, after everything above, finish your response with a section headed "FINAL SOLUTION:" on its own line. Under it, give the COMPLETE solution, at least 110 and about 120-180 words, written in plain language for a general reader. Describe only the solution itself; do NOT use the words "contradiction", "principle", "parameter", "ideality", or "TRIZ", and do not reference any method, framework, or numbered principles. Do not abbreviate or summarize; this FINAL SOLUTION section is the only part shown to evaluators.

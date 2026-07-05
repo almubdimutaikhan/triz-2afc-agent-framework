@@ -1,0 +1,20 @@
+A problem and two candidate solutions, A and B, are given below. Your task is to decide which solution is MORE CREATIVE — more inventive, original, and clever in the way it approaches the problem.
+
+IMPORTANT — judge the content only, never the position:
+- The labels A and B are assigned at random. The more creative solution is equally likely to be A or B.
+- Do NOT favour the first one or the second one by default. Do not let order, length, or formatting sway you.
+- If you find yourself leaning toward A or B because of where it sits, stop and re-read both on their merits.
+
+PROBLEM:
+{problem}
+
+SOLUTION A:
+{A}
+
+SOLUTION B:
+{B}
+
+First, in ONE short sentence, say which solution is more creative and why. Then, on a new line, give your final verdict in exactly this format and nothing else:
+ANSWER: A
+(or)
+ANSWER: B

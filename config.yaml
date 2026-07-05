@@ -1,0 +1,32 @@
+# Generation configuration for the TRIZ-on vs TRIZ-off study.
+# All calls go through the Vercel AI Gateway (OpenAI-compatible endpoint).
+# Set your key in the environment:  export AI_GATEWAY_API_KEY=...
+# Discover valid model ids with:    python src/generate.py --list-models
+
+gateway_base_url: https://openrouter.ai/api/v1
+
+# Experiment isolation. Each run writes to its OWN folders so experiments never collide:
+#   data/<run>/generations, data/<run>/judgements, results/<run>/, pairs_<run>.json
+# Point `casebase` at the case file for this run.
+run: us_patents
+casebase: casebase_uspatents.json
+
+# Models = the "different agents". Each runs BOTH modes on every problem.
+# Edit freely; ids must be valid gateway "creator/model" strings (see --list-models).
+models:
+  - openai/gpt-4o                # GPT-4 class
+  - anthropic/claude-sonnet-4.5  # Claude, same tier
+  - deepseek/deepseek-chat-v3.1  # OpenRouter id for DeepSeek V3.1 (Vercel used deepseek/deepseek-v3.1)
+  - google/gemini-2.5-flash      # 4th family — tier-matched to gpt-4o, less thinking-budget burn
+
+modes:
+  - triz      # TRIZ-expert system prompt
+  - control   # no system prompt
+
+# Sampling
+k: 1                 # us_patents run: 1 sample/cell to keep judging cost ~= main run
+temperature: 0.0     # k=1 -> deterministic, reproducible baseline (no need for >0)
+max_tokens: 4000     # headroom for thinking models (Gemini 2.5 burns budget on hidden reasoning; 1200 truncated it to a ~35-word stub)
+
+# Limit number of cases (null = all). Casebase currently has 10.
+limit: null
