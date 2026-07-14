@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 40: Composite Materials.
+Replace a homogeneous material with a composite that combines components whose joint properties none of them has alone. Examples: carbon-fiber-reinforced plastic aircraft wings that are stronger than aluminum yet far lighter and corrosion-resistant; fiberglass boats and surfboards lighter and easier to shape than wood; Tetra Pak cartons layering cardboard for stiffness, polyethylene for sealing and aluminum as a light barrier.
+Base your solution on this principle, adapting it to the specifics of the problem.

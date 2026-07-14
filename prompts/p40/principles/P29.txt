@@ -1,0 +1,2 @@
+Principle 29: Pneumatics and Hydraulics
+Replace heavy or rigid parts with gas or liquid: use inflatable or fluid-filled elements, air cushions and hydrostatic cushions. Examples: bubble wrap protecting fragile goods; air-filled tires that roll easily while absorbing shocks; airbags supplementing rigid seat belts; hydraulic brakes responding faster and more precisely than mechanical linkages; liquid cooling outperforming a passive heat sink.

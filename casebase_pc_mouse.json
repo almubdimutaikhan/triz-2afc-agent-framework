@@ -1,0 +1,10 @@
+{
+  "cases": [
+    {
+      "id": "ELEC-042",
+      "source": "pc_mouse_challenge",
+      "problem_description": "Knowledge workers rely heavily on standard computer input peripherals (keyboards and mice) for extended periods, resulting in high rates of carpal tunnel syndrome and Repetitive Strain Injuries (RSIs) due to repetitive tendon actuation, static wrist pronation, and localized mechanical pressure.\n\nThe technical contradiction: To maintain high data-input throughput and spatial precision, the user must execute rapid, highly repetitive, discrete physical finger and wrist movements. However, to eliminate neuromuscular strain and pathomechanics, these repetitive physical micro-movements and static joint load profiles must be entirely minimized or eliminated.\n\nConstraints: The solution must be fully backward-compatible with modern digital operating systems (no software-side input lag), must not require surgical implantation, and must function seamlessly within a standard office or remote workspace footprint.\n\nPropose an inventive physical design intervention or paradigm shift that resolves this contradiction, ensuring high throughput without inducing repetitive physical strain on the upper extremities.",
+      "notes": "Ergonomic input contradiction (RSI). Productivity (throughput + spatial precision) vs Safety (eliminate repetitive strain / static joint load). Consumer hardware / HCI. Standalone probe, run separately from the main and us_patents casebases."
+    }
+  ]
+}

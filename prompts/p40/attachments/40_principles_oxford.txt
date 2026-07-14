@@ -1,0 +1,750 @@
+40 Inventive Principles With Examples
+
+
+Principle 1 Segmentation
+A. Divide an object into independent parts
+- Different focal length lenses for a camera
+- Gator-grip socket spanner
+- Multi-pin connectors
+- Multiple pistons in an internal combustion engine
+- Multi-engined aircraft
+- Stratification of different constituents inside a chemical process vessel
+
+B. Make an object sectional - easy to assemble or disassemble
+- Rapid-release fasteners for bicycle saddle/wheel/etc
+- Quick disconnect joints in plumbing and hydraulic systems
+- Single fastener V-band clamps on flange joints
+- Loose-leaf paper in a ring binder
+
+C. Increase the degree of fragmentation or segmentation
+- Multiple control surfaces on aerodynamic structures
+- 16 and 24 valve versus 8 valve internal combustion engines
+- Multi-zone combustion system
+- Build up a component from layers (e.g. stereo-lithography, welds, etc)
+
+
+Principle 2 Taking out
+A. Extract the disturbing part or property from an object
+- Non-smoking areas in restaurants or in railway carriages
+- Children-only areas in public places and home
+- Sunday school
+- Public bars and lounge bars in pubs
+- Women or men only bars / waiting rooms
+- Air Conditioning in the room where you want it with the noise of the system outside the room
+(The contradiction here is noise vs coolness- the cooler it gets the noisier it gets- this solves the contradiction by
+putting the noise elsewhere )
+
+B. Extract the only necessary part (or property) of an object
+- Scarecrow
+- Sound of a barking dog (with no dog) as a burglar alarm
+- Economy class on planes (travel but no frills)
+(This involves understanding all the functionality and selecting only what you want- e.g. windows provide ventilation
+and light - with air conditioning you may not need windows which open)
+
+
+Principle 3 Local quality
+A. Change of an object's structure from uniform to non-uniform
+- Reduce drag on aerodynamic surfaces by adding riblets or 'shark-skin' protrusions
+- Moulded hand grips on tools
+- Drink cans shaped to facilitate stable stacking
+- Material surface treatments / coatings - plating,
+- Erosion / corrosion protection, case hardening, non-stick, etc
+
+B. Change an action or an external environment (or external influence) from uniform to non-uniform
+- Introduce turbulent flow around an object to alter heat transfer properties
+- Strobe lighting
+- Take account of extremes of weather conditions when designing outdoor systems
+- Use a gradient instead of constant temperature, density, or pressure
+
+C. Make each part of an object function in conditions most suitable for its operation
+- Freezer compartment in refrigerator
+- Different zones in the combustion system of an engine
+- Night-time adjustment on a rear-view mirror
+
+- Lunch box with special compartments for hot and cold solid foods and for liquids
+
+D. Make each part of an object fulfil a different and/or complementary useful function
+- Swiss-Army knife
+- Combined can and bottle opener
+- Sharp and blunt end of a drawing pin
+- Rubber on the end of a pencil
+- Hammer with nail puller
+
+
+Principle 4 Asymmetry
+A. Change the shape or properties of an object from symmetrical to asymmetrical
+- Asymmetrical funnel allows higher flow-rate than normal funnel
+- Put a flat spot on a cylindrical shaft to attach a locking feature
+- Oval and complex shaped O-rings
+- Coated glass or paper
+- Electric Plug
+- Introduction of angled or scarfed geometry features on component edges
+- Cutaway on a guitar improves access to high notes
+- Spout of a jug
+- Cam
+- Ratchet
+- Aerofoil – asymmetry generates lift
+- Eccentric drive
+- Keys
+
+B. Change the shape of an object to suit external asymmetries (e.g. ergonomic features)
+- Human-shaped seating, etc
+- Design for left and right handed users
+- Finger and thumb grip features on objects
+- Spectacles
+- Car steering system compensates for camber in road
+- Wing design compensated for asymmetric flow produced by propeller
+- Turbomachinery design for boundary layer flows (‘end-bend’)
+
+C. If an object is asymmetrical, increase its degree of asymmetry
+- Use of variable control surfaces to alter lift properties of an aircraft wing
+- Special connectors with complex shape/pin configurations to ensure correct assembly
+- Introduction of several different measurement scales on a ruler
+
+
+Principle 5 Merging
+A. Bring closer together (or merge) identical or similar objects or operations in  space
+- Automatic rifle / machine gun
+- Multi-colour ink cartridges
+- Multi-blade razors
+- Bi-focal lens spectacles
+- Double / triple glazing
+- Strips of staples
+- Catamaran / trimaran
+B. Make objects or operations contiguous or parallel; bring them together in time
+- Combine harvester
+- Manufacture cells
+- Grass collector on a lawn-mower
+- Mixer taps
+- Pipe-lined computer processors perform different stages in a calculation simultaneously
+- Vector processors perform the same process on several sets of data in a single pass
+- Fourier analysis – integration of many sine curves
+
+
+Principle 6 Universality
+A. Make an object perform multiple functions; eliminate the need for other parts
+- Child's car safety seat converts to a pushchair
+
+- Home entertainment centre
+- Swiss Army knife
+- Grill in a microwave oven
+- CD used as a storage medium for multiple data types
+- Cleaning strip at beginning of a cassette tape cleans tape heads
+- Cordless drill also acts as screwdriver, sander, polisher, etc
+
+
+Principle 7 Nested Doll
+A. Place one object inside another
+- Retractable aircraft under-carriage
+- Voids in 3D structures
+- Injected cavity-wall insulation
+- Paint-brush attached to inside of lid of nail-varnish, etc
+- Lining inside a coat
+
+B. Place multiple objects inside others
+- Nested tables
+- Telescope
+- Measuring cups or spoons
+- Stacking chairs
+- Multi-layer erosion/corrosion coatings
+C
+. Make one part pass (dynamically) through a cavity in the other
+- Telescopic car aerial
+- Retractable power-lead in vacuum cleaner
+- Seat belt retraction mechanism
+- Tape measure
+
+
+Principle 8 Anti-Weight
+A. To compensate for the weight of an object, merge it with other objects that provide lift
+- Kayak with foam floats built into hull cannot sink
+- Aerostatic aeroplane contains lighter-than-air pockets
+- Hot air or helium balloon
+- Swim-bladder inside a fish
+- Flymo cutting blade produces lift
+
+B. To compensate for the weight of an object, make it interact with the environment (use aerodynamic, hydrodynamic,
+buoyancy and other forces)
+- Vortex generators improve lift of aircraft wings
+- Wing-in-ground effect aircraft
+- Hydrofoils lift ship out of the water to reduce drag
+- Make use of centrifugal forces in rotating systems (e.g. Watt governor)
+- Maglev train uses magnetic repulsion to reduce friction
+
+
+Principle 9 Prior Counteraction
+A. When it is necessary to perform an action with both harmful and useful effects, this should be replaced with
+counteractions to control harmful effects
+- Make clay pigeons out of ice or dung - they just melt away
+- Masking objects before harmful exposure: use a lead apron for X-rays, use masking tape when painting difficult
+edges etc.
+- Predict effects of signal distortion - compensate before transmitting
+- Buffer a solution to prevent harm from extremes of pH
+
+B. Create beforehand stresses in an object that will oppose known undesirable working stresses later on
+- Pre-stress rebar before pouring concrete
+- Pre-stressed bolts
+- Decompression chamber to prevent divers getting the bends
+
+
+Principle 10 Prior Action
+A. Perform the required change of an object in advance
+
+- Pre-pasted wall paper
+- Sterilize all instruments needed for a surgical procedure
+- Self-adhesive stamps
+- Holes cut before sheet-metal part formed
+- Pre-impregnated carbon fibre reduces lay-up time and improves "wetting"
+
+B. Pre-arrange objects such that they can come into action from the most convenient place and without losing time for
+their delivery
+- Manufacture flow-lines
+- Pre-deposited blade in a surgery cast facilitates removal
+- Car jack, wheel brace, and spare tyre stored together
+- Collect all the tools and materials for the job before starting
+
+
+Principle 11 Cushion in Advance
+A. Prepare emergency means beforehand to compensate for the relatively low reliability of an object (‘belt and braces’)
+- Multi-channel control system
+- Air-bag in a car / Spare wheel / Battery back-up / Back-up parachute
+- Pressure relief valve
+- Emergency lighting circuit
+- Automatic save operations performed by computer programs
+- Crash barriers on motorways
+- ‘Touch-down’ bearing in magnetic bearing system
+
+
+Principle 12 Equipotentiality
+A. If an object has to be raised or lowered, redesign the object’s environment so the need to raise or lower is eliminated
+or performed by the environment
+- Canal locks
+- Spring loaded parts delivery system in a factory
+- Mechanic’s pit in a garage means car does not have to be lifted
+- Place a heavy object on ice, and let ice melt in order to lower it
+- Angle-poise lamp; changes in gravitational potential stored in springs
+- Descending cable cars balance the weight of ascending cars
+
+
+Principle 13 The Other Way Round
+A. Invert the action used to solve the problem
+- To loosen stuck parts, cool the inner part instead of heating the outer part
+- Vacuum casting
+- Rotary engines
+- Test pressure vessel by varying pressure outside rather than inside
+- Test seal on a liquid container by filling with pressurised air and immersing in liquid; trails of bubbles are easier to
+trace than slow liquid leaks
+
+B. Make movable parts (or the external environment) fixed, and fixed parts movable
+- Hamster wheel
+- Escalator
+- Rotate the part instead of the tool
+- Wind tunnels
+- Moving sidewalk with standing people
+- Drive through restaurant or bank
+
+C. Turn the object (or process) 'upside down'.
+- Clean bottles by inverting and injecting water from below
+- Turn an assembly upside down to insert fasteners
+
+
+Principle 14 Spheroidality – Curvature
+A. Move from flat surfaces to spherical ones and from parts shaped as a cube  (parallelepiped) to ball-shaped
+structures
+- Use arches and domes for strength in architecture
+- Introduce fillet radii between surfaces at different angles
+- Introduce stress relieving holes at the ends of slots
+
+- Change curvature on lens to alter light deflection properties
+
+B. Use rollers, balls, spirals
+- Spiral gear (Nautilus) produces continuous resistance for weight lifting
+- Ball point and roller point pens for smooth ink distribution
+- Use spherical casters instead of cylindrical wheels to move furniture
+- Archimedes screw
+
+C. Go from linear to rotary motion (or vice versa)
+- Rotary actuators in hydraulic system
+- Switch from reciprocating to rotary pump
+- Push/pull versus rotary switches (e.g. lighting dimmer switch)
+- Linear motors
+- Linear versus rotating tracking arm on a record turntable ensures constant angle of stylus relative to groove
+- Screw-thread versus nail
+
+D. Use centrifugal forces
+- Centrifugal casting for even wall thickness structures
+- Spin components after painting to remove excess paint
+- Remove water from clothes with a spin dryer rather than a mangle
+- Separate chemicals with different density properties using a centrifuge
+- Watt governor
+- Vortex/cyclone separates different density objects
+
+
+Principle 15 Dynamics
+A. Change the object (or outside environment) for optimal performance at every stage of operation
+- Gel fillings inside seat allow it to adapt to user
+- Adjustable steering wheel (or seat, or back support, or mirror position...)
+- Shape memory alloys/polymers
+- Racing car suspension adjustable for different tracks and driving techniques
+- Car handbrake adjustable to account for brake pad wear
+- Telescopic curtain rail - "one size fits all"
+
+B. Divide an object into parts capable of movement relative to each other
+- Bifurcated bicycle saddle
+- Articulated lorry
+- Folding chair/mobile phone/laptop/etc
+- Collapsible structures
+- Brush seals
+
+C. Change from immobile to mobile
+- Bendy drinking straw
+- Flexible joint
+- Collapsible hose is flexible in use, and has additional flexibility of cross -section to make it easier to store
+
+D. Increase the degree of free motion
+- Use of different stiffness fibres in toothbrush – easily deflected at the edges to prevent gum damage, hard in the
+middle
+- Flexible drive allows motion to be translated around bends
+- Loose sand inside truck tyre gives it self-balancing properties at speed
+- Add joints to robot arm to increase motion possibilities
+
+
+Principle 16 Partial or Excessive Action
+A. If you can’t achieve 100 percent of a desired effect - then go for more or less
+- Over spray when painting, then remove excess
+- Fill, then "top off" when pouring a pint of Guinness
+- Shrink wrapping process uses plastic deformation of wrapping to accommodate variations in vacuum pressure
+- ‘Roughing’ and ‘Finish’ machining operations
+- Over-fill holes with plaster and then rub back to smooth
+
+
+Principle 17 Another Dimension
+A. Move into an additional dimension - from one to two - from two to three
+- Coiled telephone wire
+- Curved bristles on a brush
+- Pizza-box with ribbed (as opposed to flat) base
+- Spiral staircase uses less floor area
+- Introduction of down and up slopes between stations on railway reduces overall power requirements
+
+B. Go from single storey or layer to multi-storey or multi-layered
+- Player with many CDs
+- Stacked or multi-layered circuit boards
+- Multi-storey office blocks or car-parks
+
+C. Incline an object, lay it on its side
+- Cars on road transporter inclined to save space
+
+D. Use the other side
+- Press a groove onto both sides of a record
+- Mount electronic components on both sides of a circuit board
+- Print text around the rim of a coin
+- Paper clip - works by pressing both sides of paper together
+
+Principle 18 Mechanical Vibration
+A. Cause an object to oscillate or vibrate
+- Electric carving knife with vibrating blades
+- Shake/stir paint to mix before applying
+- Hammer drill
+- Vibration exciter removes voids from poured concrete
+- Vibrate during sieving operations to improve throughput
+- Musical instrument
+
+B. Increase its frequency (even up to the ultrasonic)
+- Dog-whistle (transmit sound outside human range)
+- Ultrasonic cleaning
+- Non-destructive crack detection using ultrasound
+
+C. Use an object's resonant frequency
+- Destroy gallstones or kidney stones using ultrasonic resonance
+- Bottle cleaning by pulsing water jet at resonant frequency of bottles
+- Tuning fork
+- Increase action of a catalyst by vibrating it at its resonant frequency
+
+D. Use piezoelectric vibrators instead of mechanical ones
+- Quartz crystal oscillations drive high accuracy clocks
+- Piezoelectric vibrators improve fluid atomisation from a spray nozzle
+- Optical phase modulator
+
+E. Use combined ultrasonic and electromagnetic field oscillations
+- Mixing alloys in an induction furnace
+- Sono-chemistry
+- Ultrasonic drying of films – combine ultrasonic with heat source
+
+
+Principle 19 Periodic Action
+A. Instead of continuous action, use periodic or pulsating actions
+- Hitting something repeatedly with a hammer
+- Pile drivers and hammer drills exert far more force for a given weight
+- Replace a continuous siren with a pulsed sound
+- Pulsed bicycle lights make cyclist more noticeable to drivers
+- Pulsed vacuum cleaner suction improves collection performance
+- Pulsed water jet cutting
+- ABS car braking systems
+
+B. If an action is already periodic, change the periodic magnitude or frequency
+- Improve a pulsed siren with changing amplitude and frequency
+- Dots and dashes in Morse Code transmissions
+- Use AM, FM, PWM to transmit information
+
+C. Use pauses between actions to perform a different action
+- Clean barrier filters by back-flushing them when not in use
+- Inkjet printer cleans heads between passes
+- Brush between suction pulses in vacuum cleaner
+- Multiple conversations on the same telephone transmission line
+- Use of energy storage means – e.g. batteries, fly-wheels, etc
+
+
+Principle 20 Continuity of Useful Action
+A. Carry on work without a break. All parts of an object operating constantly at full capacity
+- Flywheel stores energy when a vehicle stops, so the motor can keep running at optimum power
+- Constant output gas turbine in hybrid car, or APU in aircraft, runs at highest efficiency all the time it is switched on
+- Constant speed / variable pitch propeller
+- Self-tuning engine – constantly tunes itself to ensure maximum efficiency
+- Heart pacemaker
+- Improve composting process by continuously turning material
+- Continuous glass or steel production
+
+B. Eliminate all idle or intermittent motion
+- Self-cleaning / self-emptying filter eliminates down-time
+- Print during the return of a printer carriage - dot matrix printer, daisy wheel printers, inkjet printers
+- Digital storage media allow ‘instant’ information access
+- Kayaks use double-ended paddle to utilise recovery stroke
+- Computer operating systems utilise idle periods to perform necessary housekeeping tasks
+
+
+Principle 21 Rushing Through
+A. Conduct a process, or certain stages of it (e.g. destructible, harmful or hazardous operations) at high speed
+- Cut plastic faster than heat can propagate in the material, to avoid deforming the shape
+- Shatter toffee with a hammer blow
+- Drop forge
+- Flash photography
+- Super-critical shaft – run through resonant modes quickly
+- Bikini waxing (ouch!)
+
+
+Principle 22 Blessing in Disguise
+A. Use harmful factors (particularly, harmful effects of the environment or surroundings) to achieve a positive effect
+- Use waste heat to generate electric power
+- Recycle scrap material as raw materials for another – e.g. chipboard
+- Vaccination
+- Lower body temperature to slow metabolism during operations
+- Composting
+- Use centrifugal energy in rotating shaft to do something useful – e.g. seal, or modulate cooling air
+- Use pressure differences to help rather than hinder seal performance
+
+B. Eliminate the primary harmful action by adding it to another harmful action to resolve the problem
+- Add a buffering material to a corrosive solution (e.g. an alkali to an acid, or vice versa)
+- Use a helium-oxygen mix for diving, to eliminate both nitrogen narcosis and oxygen poisoning from air and other
+nitrox mixes
+- Use gamma rays to detect positron emissions from explosives
+
+C. Amplify a harmful factor to such a degree that it is no longer harmful
+- Use a backfire to eliminate the fuel from a forest fire
+- Use explosives to blow out an oil-well fire
+- Laser-knife cauterises skin/blood vessels as it cuts
+
+
+Principle 23 Feedback
+A. Introduce feedback to improve a process or action
+- Automatic volume control in audio circuits
+- Signal from gyrocompass is used to control simple aircraft autopilots
+- Engine management system based on exhaust gas levels is more efficient than carburettor
+- Thermostat controls temperature accurately
+- Statistical Process Control - measurements are used to decide when to modify a process
+- Feedback turns inaccurate op-amp into useable accurate amplifier
+
+B. If feedback is already used, change its magnitude or influence in accordance with operating conditions
+- Change sensitivity of an autopilot when within 5 miles of an airport
+- Change sensitivity of a thermostat when cooling vs. heating, since it uses energy less efficiently when cooling
+- Use proportional, integral and/or differential control algorithm combinations
+
+
+Principle 24 Intermediary
+A. Use an intermediary carrier article or intermediary process
+- Play a guitar with a plectrum
+- Use a chisel to control rock breaking/sculpting process
+- Dwell period during a manufacture process operation
+
+B. Merge one object temporarily with another (which can be easily removed)
+- Gloves to get hot dishes out of an oven
+- Joining papers with a paper clip
+- Introduction of catalysts into chemical reaction
+- Abrasive particles enhance water jet cutting
+- Bouquet garni in cooking
+
+
+Principle 25 Self-Service
+A. An object must service itself by performing auxiliary helpful functions
+- A soda fountain pump that runs on the pressure of the carbon dioxide used to carbonate the drinks. If it won’t fizz it’s
+empty!
+- Halogen lamps regenerate the filament - evaporated material is redeposited
+- Self-aligning / self-adjusting seal
+- Self-cleaning oven / glass / material
+- Abradable materials used in gas turbines such that initial running-in ‘cuts’ optimum seals into lining
+
+B. Use waste resources, energy, or substances
+- Use heat from a process to generate electricity: co-generation
+- Use animal waste as fertilizer
+- Use food and lawn waste to create compost
+- Use pressure difference to reinforce seal action
+
+
+Principle 26 Copying
+A. Replace unavailable, expensive or fragile object with available or inexpensive copies
+- Imitation jewellery
+- Astroturf
+- Crash test dummy
+
+B. Replace an object, or process with optical copies
+- Do surveying from space photographs instead of on the ground
+- Measure an object by scaling measurements from a photograph
+- Virtual reality / Virtual mock-ups / electronic pre-assembly modelling
+
+C. If visible optical copies are used, move to infrared or ultraviolet copies
+- Make images in infrared to detect heat sources, such as diseases in crops, or intruders in a security system
+- Use UV as a non-destructive crack detection method
+- UV light used to attract flying insects into trap
+
+
+Principle 27 Cheap Short-Living Objects
+
+A. Replace an expensive object with a multiple of inexpensive objects, compromising certain qualities, such as service
+life
+- Disposable nappies / paper-cups / plates / cameras / torches etc
+- Matches versus lighters
+- Throw-away cigarette lighters
+- Sacrificial coatings / components
+
+
+Principle 28 Replace Mechanical System
+A. Replace a mechanical system with a sensory one
+- Replace a physical barrier with an acoustic one (audible to animals)
+- Add a bad smell to natural gas to alert users to leaks
+- Finger-print/retina/etc scan instead of a key
+- Voice activated telephone dialling
+
+B. Use electric, magnetic and electromagnetic fields to interact with the object
+- To mix 2 powders, electrostatically charge one positive and the other negative
+- Electrostatic precipitators separate particles from airflow
+- Improve efficiency of paint-spraying by oppositely charging paint droplets and object to be painted
+- Magnetic bearings
+- Field activated switches
+
+C. Replace stationary fields with moving; unstructured fields with structured
+- Early communications used omni-directional broadcasting. We now use antennas with very detailed structure of the
+pattern of radiation
+- Magnetic Resonance Imaging (MRI) scanner
+
+D. Use fields in conjunction with field-activated (e.g. ferromagnetic) particles
+- Heat a substance containing ferromagnetic material by using varying magnetic field. When the temperature exceeds
+the Curie point, the material becomes paramagnetic, and no longer absorbs heat
+- Magneto-rheological effect – uses ferromagnetic particles and variable magnetic field to alter the viscosity of a fluid
+- Ferro-magnetic catalysts
+- Ferro-fluids – e.g. Magnatec oil – stay attached to surfaces requiring lubrication
+
+
+Principle 29 Pneumatics and Hydraulics
+A. Use gas and liquid parts of an object instead of solid parts (e.g. inflatable, filled with liquids, air cushion, hydrostatic,
+hydro-reactive)
+- Transition from mechanical to hydraulic or pneumatic drive
+- Inflatable furniture / mattress etc
+- Gel filled saddle adapts to user
+- Hollow section O-rings
+- Hovercraft
+- Gas bearings
+- Acoustic panels incorporating Helmholtz resonators
+
+
+Principle 30 Flexible Membranes/Thin Films
+A. Use flexible shells and thin films instead of three-dimensional structures
+- Use inflatable (thin film) structures
+- Taut-liner trucks
+- Tarpaulin car cover instead of garage
+- Store energy in stretchable bags – accumulators in a hydraulic system
+
+B. Isolate the object from its external environment using flexible membranes
+- Bubble-wrap
+- Bandages/plasters
+- Tea bag
+- Shrink wrapping
+
+
+Principle 31 Porous Materials
+A. Make an object porous or add porous elements (inserts, coatings, etc.)
+- Drill holes in a structure to reduce the weight
+
+- Cavity wall insulation
+- Transpiration film cooled structures
+- Foam metals
+- Use sponge-like structures as fluid absorption media
+
+B. If an object is already porous, use the pores to introduce a useful substance or function
+- Use a porous metal mesh to wick excess solder away from a joint
+- Store hydrogen in the pores of a palladium sponge. (Fuel "tank" for the hydrogen car - much safer than storing
+hydrogen gas)
+- Desiccant in polystyrene packing materials
+- Medicated swabs/dressings
+
+
+Principle 32 Colour Change
+A. Change the colour of an object or its external environment
+- Use safe lights in a photographic darkroom
+- Use colour-changing thermal paint to measure temperature
+- Plastic spoon which changes colour when hot - for baby food
+- Temperature-sensitive dyes used on food product labels to indicate when desired serving temperature has been
+achieved
+- Electrochromic glass
+- Light-sensitive glasses
+- Camouflage
+- Dazzle camouflage used on World War 1 ships
+- Employ interference fringes on surface structures to change colour (as in butterfly wings, etc)
+
+B. Change the transparency of an object or its external environment
+- Use photolithography to change transparent material to a solid mask for  semiconductor processing
+- Light-sensitive glass
+
+C. In order to improve observability of things that are difficult to see, use coloured additives or luminescent elements
+- Fluorescent additives used during UV spectroscopy
+- UV marker pens used to help identify stolen goods
+- Use opposing colours to increase visibility – e.g. butchers use green decoration to make the red in meat look redder
+
+D. Change the emissivity properties of an object subject to radiant heating
+- Use of black and white coloured panels to assist thermal management on space vehicles
+- Use of parabolic reflectors in solar panels to increase energy capture
+- Paint object with high emissivity paint in order to be able to measure its temperature with a calibrated thermal imager
+
+
+Principle 33 Homogeneity
+A. Objects interacting with the main object should be of same material (or material with identical properties)
+- Container made of the same material as its contents, to reduce chemical reactions
+- Friction welding requires no intermediary material between the two surfaces to be joined
+- Temporary plant pots made out of compostable material
+- Human blood transfusions/transplants, use of bio-compatible materials
+- Make ice-cubes out of the same fluid as the drink they are intended to cool
+- Join wooden components using (wood) dowel joints
+
+
+Principle 34 Discarding and Recovering
+A. After completing their function (or becoming useless) reject objects, make them go away, (discard them by
+dissolving, evaporating, etc) or modify during the process
+- Dissolving capsule for medication.
+- Bio-degradable containers, bags etc.
+- Casting processes – lost-wax, sand, etc.
+- During firing of a rocket, foam protection is used on some elements; this evaporates in space when shock-
+absorbance is no longer required
+
+B. Restore consumable / used up parts of an object during operation
+- Self-sharpening blades – knives / lawn-mowers etc
+- Strimmer dispenses more wire automatically after a breakage
+
+- Self-tuning automobile engines
+- Propelling pencil
+- Automatic rifle
+
+
+Principle 35 Parameter Change
+A. Change the physical state (e.g. to a gas, liquid, or solid)
+- Transport oxygen or nitrogen or petroleum gas as a liquid, instead of a  gas, to reduce volume
+
+B. Change the concentration or density
+- Liquid soap
+- Abradable linings used for gas-turbine engine seals
+
+C. Change the degree of flexibility
+- Vulcanize rubber to change its flexibility and durability
+- Compliant brush seals rather than labyrinth or other fixed geometry seals
+
+D. Change the temperature or volume
+- Raise the temperature above the Curie point to change a ferromagnetic substance to a paramagnetic substance
+- Cooking / baking etc.
+
+E. Change the pressure
+- Pressure cooker cooks more quickly and without losing flavours
+- Electron beam welding in a vacuum
+- Vacuum packing of perishable goods
+
+F. Change other parameters
+- Shape memory alloys/polymers
+- Use Curie point to alter magnetic properties
+- Thixotropic paints / gels etc.
+- Use high conductivity materials – e.g. carbon fibre
+
+
+Principle 36 Phase Transition
+A. Use phenomena of phase transitions (e.g. volume changes, loss or absorption of heat, etc.)
+- Latent heat effects in melting / boiling
+- Soak rocks in water, then freezing causes water to expand – thus opening fissures in rock, making it easier to break
+- Heat pumps use the heat of vaporization and heat of condensation of a closed thermodynamic cycle to do useful
+work
+- Volume expansion during water-to-steam transition
+- Superconductivity
+
+
+Principle 37 Thermal Expansion
+A. Use thermal expansion, or contraction, of materials
+- Fit a tight joint together by cooling the inner part to contract, heating the outer part to expand, putting the joint
+together, and returning to equilibrium
+- Metal tie-bars used to straighten buckling walls on old buildings
+- Thermal switch/cut-out
+- Shape memory alloys/polymers
+- Shrink-wrapping
+
+B. Use multiple materials with different coefficients of thermal expansion
+- Bi-metallic strips used for thermostats, etc
+- Two-way shape memory alloys
+- Passive blade tip clearance control in gas turbine engines
+- Combine materials with positive and negative thermal expansion coefficients to obtain alloys with zero (or specifically
+tailored) expansion properties – e.g. cerro-tru alloy used in the mounting and location of fragile turbine blade
+components during manufacture operations
+
+
+Principle 38 Accelerated Oxidation
+A. Replace common air with oxygen-enriched air
+- Scuba diving with Nitrox or other non-air mixtures for extended endurance
+
+- Place asthmatic patients in oxygen tent
+- Nitrous oxide injection to provide power boost in high performance engines
+
+B. Replace enriched air with pure oxygen
+- Cut at a higher temperature using an oxy-acetylene torch
+- Treat wounds in a high pressure oxygen environment to kill anaerobic bacteria and aid healing
+- Control oxidation reactions more effectively by reacting in pure oxygen
+
+C. Expose air or oxygen to ionising radiation
+- Positive ions formed by ionising air can be deflected by magnetic field in order to (e.g.) reduce air resistance over an
+aerodynamic surface
+- Irradiation of food to extend shelf life
+- Use ionised air to destroy bacteria and sterilise food
+
+D. Use ionised oxygen
+- Speed up chemical reactions by ionising the gas before use
+- Separate oxygen from a mixed gas by ionising the oxygen
+
+E. Replace ozonised (or ionised) oxygen with ozone
+- Oxidisation of metals in bleaching solutions to reduce cost relative to hydrogen peroxide
+- Use ozone to destroy micro-organisms and toxins in corn
+- Ozone dissolved in water removes organic contaminants from ship hulls
+
+
+Principle 39 Inert Atmosphere
+A. Replace a normal environment with an inert one
+- Prevent degradation of a hot metal filament by using an argon atmosphere
+- MIG/TIG welding
+- Electron beam welding conducted in a vacuum
+- Vacuum packaging
+- Foam to separate a fire from oxygen in air
+
+B. Add neutral parts, or inert additives to an object
+- Naval aviation fuel contains additives to alter flash point
+- Add fire retardant elements to titanium to reduce possibility of titanium  fire
+- Add foam to absorb sound vibrations – e.g. hi-fi speakers
+
+
+Principle 40 Composite Materials
+A. Change from uniform to composite (multiple) materials
+- Aircraft structures where low weight and high strength are required
+- Composites in golf club shaft
+- Concrete aggregate
+- Glass-reinforced plastic
+- Fibre-reinforced ceramics
+- Hard / soft / hard multi-layer coatings to improve erosion properties

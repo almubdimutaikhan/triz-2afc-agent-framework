@@ -1,0 +1,2 @@
+Principle 24: Intermediary
+Introduce an intermediate object that transmits, carries out or passes on the action; temporarily join the object to another that is easy to remove afterwards. Examples: protective gloves mediating between hand and hazard while transferring grip; a V-belt carrying one motor's power to several consumers; a magnetic charging connector that holds securely yet detaches safely when the cable is yanked.

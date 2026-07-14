@@ -1,0 +1,2 @@
+Principle 39: Inert Atmosphere
+Replace the normal environment with an inert one; carry out the process in a vacuum; add neutral substances or inert additives to the object. Examples: argon shielding the welding zone from oxidation; inert gas in incandescent bulbs protecting the filament; vacuum-packed food staying fresh far longer; shaving foam interposing a slow, protective medium between blade and skin; foam absorbing sound in speakers.

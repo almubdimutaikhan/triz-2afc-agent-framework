@@ -1,0 +1,2 @@
+Principle 14: Spheroidality and Curvature
+Replace straight contours with curves, flat surfaces with spherical ones; use rollers, balls and spirals; replace linear motion with rotation; exploit centrifugal force. Examples: a spherical mirror reflecting images from many directions at once; ball bearings turning sliding friction into low-friction rolling; the spark wheel of a lighter replacing a striking motion; a salad spinner using centrifugal force to fling water off the leaves.

@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 36: Phase Transitions.
+Exploit the effects that accompany phase transitions: volume changes, absorption or release of heat, and related phenomena. Examples: gel heat packs that release the latent heat of crystallization when a supercooled salt solution is triggered, and recharge in hot water; heat pumps that heat or cool buildings efficiently by cycling a working fluid through evaporation and condensation.
+Base your solution on this principle, adapting it to the specifics of the problem.

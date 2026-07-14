@@ -1,0 +1,2 @@
+Principle 11: In-advance Cushioning
+Compensate for the limited reliability of a system by preparing emergency countermeasures beforehand, so that when failure or overload occurs the damage is absorbed. Examples: a pressure relief valve that vents before a tank can burst; a car airbag that inflates into a gas cushion before the head strikes the steering wheel; a protective phone case that absorbs drops and impacts.

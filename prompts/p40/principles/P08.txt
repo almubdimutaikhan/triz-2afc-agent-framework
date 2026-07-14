@@ -1,0 +1,2 @@
+Principle 8: Anti-weight
+Compensate the object's weight by joining it to something that provides lift; use aerodynamic, hydrodynamic, buoyant, magnetic or other opposing forces from the environment. Examples: aircraft wings converting forward motion into lift; cargo drones with lifting wings that save battery power; underwater equipment built with buoyant frames for near-neutral buoyancy; furniture levitated above a magnetic base plate.

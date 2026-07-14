@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 1: Segmentation.
+Divide the object or system into independent parts; make it easy to disassemble; separate parts according to a condition or parameter; increase the degree of fragmentation, down to the micro-level if useful. Examples: flat-pack furniture shipped as parts and assembled later; toothbrushes with replaceable heads; tables with foldable legs; magnetic powder ground ever finer to reveal field lines, and finer still to form a ferrofluid.
+Base your solution on this principle, adapting it to the specifics of the problem.

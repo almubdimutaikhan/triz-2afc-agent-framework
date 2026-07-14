@@ -1,0 +1,2 @@
+Principle 6: Universality
+Make one object perform multiple functions so that other objects or systems become unnecessary; use standardized, interchangeable features. Examples: an all-in-one device combining printer, scanner, copier and fax; a Swiss Army knife packing many tools into one; a standardized battery pack that powers drills, saws and grinders from the same manufacturer, replacing separate batteries per tool.

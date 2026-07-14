@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 4: Asymmetry.
+Replace symmetrical forms with asymmetrical ones; if the object is already asymmetrical, increase the degree of asymmetry; change its shape to match asymmetries in the environment. Examples: connectors and memory cards shaped so they can only be inserted the correct way; a car tire with extra sidewall reinforcement on the outer side only; furniture with individually adjustable legs that stays level on uneven floors.
+Base your solution on this principle, adapting it to the specifics of the problem.

@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 30: Flexible Shells and Thin Films.
+Replace rigid three-dimensional constructions with flexible shells, membranes or thin films; isolate the object from its environment with a thin film; increase the degree of flexibility. Examples: thin plastic bottles replacing heavy breakable glass; flexible thin-film solar panels conforming to curved roofs; a tea bag separating leaves from water through a permeable fleece; vacuum bags compressing stored items.
+Base your solution on this principle, adapting it to the specifics of the problem.

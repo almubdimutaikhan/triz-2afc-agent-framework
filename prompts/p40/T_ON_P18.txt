@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 18: Mechanical Vibration.
+Set the object oscillating or vibrating; increase the frequency up to ultrasonic; use its resonant frequency; replace mechanical vibrators with piezoelectric ones; combine ultrasonic vibration with electromagnetic fields. Examples: ultrasonic baths that clean parts by vibrating the fluid; piezo vibrators that shake ice off radar domes; focused ultrasound that destroys tumors or kidney stones without incisions.
+Base your solution on this principle, adapting it to the specifics of the problem.

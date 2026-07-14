@@ -1,0 +1,2 @@
+Principle 37: Thermal Expansion
+Use the thermal expansion or contraction of materials; combine several materials with different thermal expansion coefficients. Examples: shrink tubing that tightens around conductors when heated; a liquid thermometer reading temperature from the expansion of its fluid; a bimetallic strip thermostat bending as temperature changes to control radiators; glass-ceramic cooktops engineered for near-zero expansion; conical rings with differing coefficients compensating a bearing gap across temperatures.

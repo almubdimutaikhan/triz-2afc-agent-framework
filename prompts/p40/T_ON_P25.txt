@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 25: Self-service.
+Make the object serve itself, performing its own auxiliary, repair and maintenance functions; make use of waste material, waste energy and by-products. Examples: a lock nut whose deformed plastic ring secures itself against loosening; a calculator powered by its own solar cell; manure used as fertilizer; braking energy or scrap metal recovered and fed back into the process.
+Base your solution on this principle, adapting it to the specifics of the problem.

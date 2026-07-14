@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 20: Continuity of Useful Action.
+Carry out the work without interruption, with all parts operating at constant full load; eliminate idle running and dead intervals; replace back-and-forth motion with rotation. Examples: inkjet printers that print on both directions of the carriage stroke; a revolving door passing people continuously in both directions; an aircraft APU running constantly at peak efficiency; operating systems doing cleanup during idle time.
+Base your solution on this principle, adapting it to the specifics of the problem.

@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 22: Blessing in Disguise.
+Use harmful factors or effects of the environment to obtain a positive effect; cancel one harmful factor by combining it with another; amplify a harmful factor until it ceases to be harmful. Examples: regenerative braking charging the battery; power-plant waste heat warming houses; weakened viruses used as vaccines; a controlled backfire stopping a forest fire; acids and alkalis alternated in one pipe so each limits the other's damage.
+Base your solution on this principle, adapting it to the specifics of the problem.

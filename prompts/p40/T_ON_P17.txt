@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 17: Transition to Another Dimension.
+Move from one dimension to two or three; arrange objects in multiple layers instead of one; tilt, reorient or lay the object on its side; use the reverse side or redirect light onto adjacent areas. Examples: a grater curved from flat into a multi-sided body; software windows stacked in layers on screen; logs stored vertically instead of piled; mirrors in orchards reflecting sunlight onto fruit from below.
+Base your solution on this principle, adapting it to the specifics of the problem.

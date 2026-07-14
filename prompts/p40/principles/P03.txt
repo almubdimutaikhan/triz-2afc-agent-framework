@@ -1,0 +1,2 @@
+Principle 3: Local Quality
+Move from a homogeneous structure to an inhomogeneous one; let different parts perform different functions; place each component under its own locally optimal conditions. Examples: socks with anti-slip studs only on the sole; shoelace ends reinforced with sleeves for threading; a heated blank cooled from the outside so it stays hard outside but soft inside, internally guiding the forming tool that passes through it.

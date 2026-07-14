@@ -1,0 +1,2 @@
+Principle 26: Copying
+Use a simplified, cheap copy instead of a complex, expensive or fragile object; replace the object with its optical or digital image and work on that; move on to infrared, ultraviolet or X-ray images if needed. Examples: e-books replacing printed volumes; counting fish on a photograph where they stand still; thermal cameras visualizing temperature; X-rays revealing voids inside metal parts.

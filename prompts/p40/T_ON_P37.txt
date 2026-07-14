@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 37: Thermal Expansion.
+Use the thermal expansion or contraction of materials; combine several materials with different thermal expansion coefficients. Examples: shrink tubing that tightens around conductors when heated; a liquid thermometer reading temperature from the expansion of its fluid; a bimetallic strip thermostat bending as temperature changes to control radiators; glass-ceramic cooktops engineered for near-zero expansion; conical rings with differing coefficients compensating a bearing gap across temperatures.
+Base your solution on this principle, adapting it to the specifics of the problem.

@@ -1,0 +1,2 @@
+Principle 35: Parameter Changes
+Change the object's physical state (solid, liquid, gas or quasi-state), its concentration, consistency, flexibility, temperature, volume, pressure or other parameters, or change the surrounding medium to an optimal setting. Examples: natural gas liquefied for compact transport; fuel paste replacing spillable liquid alcohol; a glue stick soft for application then hardening; a self-cooling beer keg using evaporative cooling into zeolite.

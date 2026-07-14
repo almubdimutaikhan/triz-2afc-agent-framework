@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 31: Porous Materials.
+Make the object porous or add porous elements such as inserts and coatings; if it is already porous, fill the pores in advance with a useful substance. Examples: foam full of air pockets used for cushioning and mattresses; lightweight sandwich panels with rigid-foam cores; activated-carbon filters trapping contaminants in their pores; a temperature-resistant porous rod pre-soaked with alloying agents for molten metal.
+Base your solution on this principle, adapting it to the specifics of the problem.

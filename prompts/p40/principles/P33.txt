@@ -1,0 +1,2 @@
+Principle 33: Homogeneity
+Make objects that interact with each other out of the same material, or one with very similar properties, to avoid mismatch, wear and contamination. Examples: wooden dowels joining wooden furniture so neither part damages the other; rivets of the same metal as the parts to prevent corrosion; ice cubes frozen from the drink itself so it is never diluted; biodegradable bags composted together with the organic waste inside.

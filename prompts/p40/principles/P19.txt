@@ -1,0 +1,2 @@
+Principle 19: Periodic Action
+Replace a continuous action with periodic pulses; if the action is already periodic, change its frequency; use the pauses between pulses to perform other useful actions. Examples: a jackhammer breaking material with impulses; ABS brakes pulsing to keep steering control; a siren varying tone and amplitude to attract more attention; CPR alternating chest compressions with ventilation in the pauses.

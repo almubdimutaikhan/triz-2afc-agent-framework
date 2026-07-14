@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 7: Nesting.
+Place one object inside another, which in turn sits inside a third; let an object pass through a cavity of another; use telescoping structures. Examples: a foldable trekking cup that collapses into itself for transport; a travel toothbrush whose handle doubles as the protective cap for the head; telescopic pointers and car antennas that retract when not in use.
+Base your solution on this principle, adapting it to the specifics of the problem.

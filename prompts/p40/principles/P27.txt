@@ -1,0 +1,2 @@
+Principle 27: Cheap Short-living Objects
+Replace one expensive, durable object with a set of cheap, short-lived ones, accepting the loss of some qualities such as longevity. Examples: paper tissues replacing cloth handkerchiefs; one-day contact lenses instead of costly long-wear lenses; disposable razors built as simply as possible to minimize development and production cost; sterile single-use syringes and needles discarded after each injection.

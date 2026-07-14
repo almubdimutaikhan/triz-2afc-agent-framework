@@ -1,0 +1,2 @@
+Principle 13: The Other Way Around
+Invert the action: instead of the effect dictated by the task, aim for the opposite; make moving parts fixed and fixed parts moving; turn the object or process upside down. Examples: an ink eraser that removes ink instead of applying it; an escalator or treadmill where the surface moves and the person stays; leak-testing a tank by filling it with air and submerging it so bubbles reveal the leak.

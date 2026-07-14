@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 15: Dynamization.
+Design the system so it automatically adjusts to optimal conditions in each phase of operation; divide it into elements that can rearrange relative to each other; make rigid or immovable things movable, adjustable or interchangeable. Examples: height-adjustable desks for sitting or standing; a folding fan that is compact until unfolded; a wireless mouse freed from its cable; a toothbrush with a flexing neck that protects the gums.
+Base your solution on this principle, adapting it to the specifics of the problem.

@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 28: Mechanics Substitution.
+Replace the mechanical system with an optical, acoustic, thermal or chemical one; use electric, magnetic or electromagnetic fields; move from static to moving or structured fields; combine fields with field-activated particles. Examples: a laser rangefinder replacing the tape measure; radio keys replacing mechanical car keys; electromagnets levitating parts along an assembly line; magnetic nanoparticles steering drugs to a tumor.
+Base your solution on this principle, adapting it to the specifics of the problem.

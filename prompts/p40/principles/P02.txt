@@ -1,0 +1,2 @@
+Principle 2: Separation
+Extract or separate the disturbing part or property from the object, or isolate the only necessary part or property and use it alone. Examples: a mechanical pencil separates the consumable lead from the durable body, so only the lead is replaced; a scarecrow reproduces only the necessary human characteristics (appearance and sound) needed to scare birds away, without a person having to guard the field.

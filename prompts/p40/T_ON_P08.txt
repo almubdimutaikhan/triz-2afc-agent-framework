@@ -1,0 +1,5 @@
+Use TRIZ to solve the following engineering problem.
+
+In your solution, apply TRIZ Inventive Principle 8: Anti-weight.
+Compensate the object's weight by joining it to something that provides lift; use aerodynamic, hydrodynamic, buoyant, magnetic or other opposing forces from the environment. Examples: aircraft wings converting forward motion into lift; cargo drones with lifting wings that save battery power; underwater equipment built with buoyant frames for near-neutral buoyancy; furniture levitated above a magnetic base plate.
+Base your solution on this principle, adapting it to the specifics of the problem.

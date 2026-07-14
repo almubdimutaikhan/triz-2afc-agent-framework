@@ -2,6 +2,11 @@
 .env
 .env.*
 !.env.example
+# Firebase / GCP service-account keys — NEVER commit
+*firebase-adminsdk*.json
+*service-account*.json
+*serviceAccount*.json
+triz-results-firebase-adminsdk-fbsvc-5ddb95bab5.json
 
 # ---- python ----
 __pycache__/
@@ -33,6 +38,11 @@ pairs*.json
 runs/
 search/
 casebase.backup*.json
+
+# ---- copyrighted source documents (Oxford Creativity etc.) ----
+# Prof-supplied reference PDFs/XLSX. The extracted attachment text used in
+# prompts is versioned at prompts/p40/attachments/; the sources stay local.
+docs/
 
 # ---- personal notes / drafts (not for publication) ----
 s.txt

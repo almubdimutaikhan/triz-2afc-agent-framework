@@ -1,0 +1,2 @@
+Principle 32: Color Changes
+Change the color or transparency of the object or its surroundings; add color indicators to observe what is hard to see; use luminescent or fluorescent tracers; change emission properties under radiant heat. Examples: red darkroom light that spares the film; transparent lighter tanks showing the gas level; toothbrush bristles whose fading color signals replacement; pH strips; fluorescent dye under UV revealing hairline cracks.

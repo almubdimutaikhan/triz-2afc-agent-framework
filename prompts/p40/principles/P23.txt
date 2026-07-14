@@ -1,0 +1,2 @@
+Principle 23: Feedback
+Introduce feedback so the system's output regulates its own action; if feedback already exists, change its magnitude, sensitivity or direction. Examples: a heating thermostat that opens or closes the valve depending on room temperature; a check valve whose flap responds to flow direction; smart lighting that adjusts brightness and color temperature to the time of day and residents' activity.
