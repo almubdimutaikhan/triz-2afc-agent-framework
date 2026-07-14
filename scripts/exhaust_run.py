@@ -132,7 +132,9 @@ def main():
                 "prompt_words": r["user_words"],
                 "max_overlap_prev_pct": round(mx * 100, 1),
                 "most_similar_round": at,
-                "final_solution": r["final"],
+                # one line per row: editors/IDE previews choke on quoted
+                # multi-line CSV fields (chains.md keeps the formatted text)
+                "final_solution": " ".join(r["final"].split()),
             })
 
     cols = list(rows[0].keys())
