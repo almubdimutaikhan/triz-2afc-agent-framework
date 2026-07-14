@@ -1,8 +1,10 @@
 #!/usr/bin/env python3
 """
-Generate solutions to the TRIZ casebase with each model in two modes:
-  - triz    : TRIZ-expert system prompt
-  - control : no system prompt
+Generate solutions to a casebase under either:
+  - the legacy 2-mode design (triz / control), via config.yaml's `modes:` key, or
+  - a generalized N-named-condition design, via config.yaml's `conditions:` key
+    (e.g. the factorial run: P_L_TRIZ_ON, P_L_TRIZ_OFF, P_S_TRIZ_ON, P_S_TRIZ_OFF),
+    with one system-prompt file per condition at prompts/<run>/<condition>.txt.
 
 Every call is a single STATELESS request (system + one user message) through the
 Vercel AI Gateway. No conversation history, no cross-call/cross-arm context.
@@ -58,12 +60,19 @@ def extract_solution(text):
     return sol.strip()
 
 
-def prompt_version() -> str:
-    """Hash of all prompt files so edits invalidate the cache."""
+def prompt_version(paths) -> str:
+    """Hash of the given prompt files so edits invalidate the cache."""
     h = hashlib.sha256()
-    for n in sorted(["triz_system.txt", "control_system.txt", "user_template.txt"]):
-        h.update((PROMPTS / n).read_bytes())
+    for p in sorted(paths, key=str):
+        h.update(Path(p).read_bytes())
     return h.hexdigest()[:12]
+
+
+def load_condition_prompts(run: str, conditions) -> dict:
+    """Load one system-prompt file per named condition from prompts/<run>/<condition>.txt
+    (the generalized N-condition path, e.g. the factorial run's P_L_TRIZ_ON etc.)."""
+    d = PROMPTS / run
+    return {c: (d / f"{c}.txt").read_text().strip() for c in conditions}
 
 
 def api_key() -> str:
@@ -136,7 +145,7 @@ def call_gateway(base_url, model, system, user, params):
     return None, last
 
 
-def run_one(base_url, case, model, mode, sample_idx, params, pv, triz_sys, control_sys, user_tpl):
+def run_one(base_url, case, model, mode, sample_idx, params, pv, sys_prompts, user_tpl):
     key = cache_key(model, mode, case["id"], sample_idx, pv, params)
     out_path = GEN_DIR / f"{key}.json"
     if out_path.exists():
@@ -144,7 +153,7 @@ def run_one(base_url, case, model, mode, sample_idx, params, pv, triz_sys, contr
         rec["_cached"] = True
         return rec
 
-    system = triz_sys if mode == "triz" else control_sys
+    system = sys_prompts[mode]
     user = user_tpl.format(problem_description=case["problem_description"])
     content, err = call_gateway(base_url, model, system, user, params)
     rec = {
@@ -187,17 +196,33 @@ def main():
     print(f"run='{run}'  casebase={CASEBASE.name}  -> {GEN_DIR}")
 
     models = args.models or cfg["models"]
-    modes = cfg["modes"]
     k = cfg.get("k", 1)
     limit = args.limit if args.limit is not None else cfg.get("limit")
     params = {
         "temperature": args.temperature if args.temperature is not None else cfg["temperature"],
         "max_tokens": cfg["max_tokens"],
     }
-    pv = prompt_version()
-    triz_sys = load_text("triz_system.txt").strip()
-    control_sys = load_text("control_system.txt").strip()
     user_tpl = load_text("user_template.txt")
+
+    # Generalized N-named-condition path (e.g. factorial: P_L_TRIZ_ON/OFF, P_S_TRIZ_ON/OFF)
+    # vs. the legacy 2-mode path (triz/control) used by main and us_patents.
+    conditions = cfg.get("conditions")
+    if conditions:
+        # The prompt template SET (e.g. "factorial") is independent of which specific
+        # run/casebase is active (e.g. "factorial_pilot12", a 12-case subset) — default
+        # to the run name for convenience, but let config.yaml override with `prompt_dir:`.
+        prompt_dir = cfg.get("prompt_dir", run)
+        modes = conditions
+        sys_prompts = load_condition_prompts(prompt_dir, conditions)
+        prompt_paths = [PROMPTS / prompt_dir / f"{c}.txt" for c in conditions] + [PROMPTS / "user_template.txt"]
+    else:
+        modes = cfg["modes"]
+        sys_prompts = {
+            "triz": load_text("triz_system.txt").strip(),
+            "control": load_text("control_system.txt").strip(),
+        }
+        prompt_paths = [PROMPTS / "triz_system.txt", PROMPTS / "control_system.txt", PROMPTS / "user_template.txt"]
+    pv = prompt_version(prompt_paths)
 
     cases = json.loads(CASEBASE.read_text())["cases"]
     if limit:
@@ -211,7 +236,7 @@ def main():
     records = []
     with cf.ThreadPoolExecutor(max_workers=args.concurrency) as ex:
         futs = {ex.submit(run_one, base_url, c, m, mode, s, params, pv,
-                          triz_sys, control_sys, user_tpl): (c["id"], m, mode, s)
+                          sys_prompts, user_tpl): (c["id"], m, mode, s)
                 for (c, m, mode, s) in jobs}
         for fut in cf.as_completed(futs):
             cid, m, mode, _ = futs[fut]

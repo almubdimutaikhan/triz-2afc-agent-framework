@@ -1,0 +1,32 @@
+A problem and two candidate solutions, A and B, are given below.
+
+Your task is to choose which solution is more creative overall.
+
+Judge creativity using these criteria:
+
+1. Originality: Does the solution propose a non-obvious or inventive approach?
+2. Usefulness: Does it address the actual problem effectively?
+3. Feasibility: Is it physically and technically realistic?
+4. Specificity: Does it give a concrete mechanism rather than vague advice?
+5. Elegance: Does it solve the problem with low added complexity, cost, or side effects?
+
+Do not judge based on position, length, formatting, or writing style.
+The labels A and B are random.
+
+PROBLEM:
+{problem}
+
+SOLUTION A:
+{A}
+
+SOLUTION B:
+{B}
+
+Briefly compare the two solutions using the criteria above.
+Then give your final answer in exactly this format:
+
+ANSWER: A
+
+or
+
+ANSWER: B

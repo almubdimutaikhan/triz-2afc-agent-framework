@@ -23,6 +23,24 @@ modes:
   - triz      # TRIZ-expert system prompt
   - control   # no system prompt
 
+# --- Generalized N-condition design (e.g. the 2x2 factorial redesign) -------
+# Set `run:` + `casebase:` + the block below instead of `modes:` to run more
+# than 2 named conditions. One system-prompt file per condition lives at
+# prompts/<prompt_dir>/<condition>.txt (see prompts/factorial/*.txt).
+# `prompt_dir` defaults to `run` if omitted, but set it explicitly whenever the
+# run name differs from the prompt set (e.g. a case-subset pilot run reusing
+# the same "factorial" prompts). generate.py picks this path up automatically
+# whenever `conditions:` is present.
+#
+# run: factorial
+# casebase: casebase.json
+# prompt_dir: factorial
+# conditions:
+#   - P_L_TRIZ_ON    # long TRIZ-expert prompt (prompts/factorial/P_L_TRIZ_ON.txt)
+#   - P_L_TRIZ_OFF   # length/structure-matched generic design prompt, no TRIZ terms
+#   - P_S_TRIZ_ON    # short: "Use TRIZ to solve the following engineering problem."
+#   - P_S_TRIZ_OFF   # short: "Solve the following engineering problem."
+
 # Sampling
 k: 1                 # us_patents run: 1 sample/cell to keep judging cost ~= main run
 temperature: 0.0     # k=1 -> deterministic, reproducible baseline (no need for >0)

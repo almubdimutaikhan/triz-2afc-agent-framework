@@ -1,0 +1,211 @@
+{
+  "cases": [
+    {
+      "id": "001",
+      "problem_description": "To prevent water erosion of river banks, they can be strengthened with stones. However, water gradually washes sand and soil from under the stones, and the shoreline collapses. What can we do?",
+      "plus_factor_index": [
+        32
+      ],
+      "minus_factor_index": [
+        30
+      ],
+      "principle_index": [
+        2,
+        24
+      ],
+      "solutions": [
+        {
+          "content": "The stones are fixed with durable mesh wire. Moreover, the stones can be placed inside prefabricated sections similar to mesh wire baskets – thereby giving the construction the required shape and size.",
+          "principle_index": [
+            24
+          ]
+        }
+      ],
+      "notes": "Michael A. Orloff, Modern TRIZ, Page 187."
+    },
+    {
+      "id": "002",
+      "problem_description": "Any two-wheel scooter or bicycle remains stable only when in motion. In other words, these devices are \"dynamically stable\". However, when they stop, they fall down on their side. There are known systems that can stabilize spatial position using liquid equilibrium detectors and gyroscopic stabilizers. However, there is \"nothing to stabilize\" in a bicycle transversely – the only thing we can do is install a sophisticated \"scales-like\" system so as to make it possible, by constantly balancing, to keep the mass center of the system strictly within the support area. But that seems too complex and completely unjustified. Can we build a two-wheel vehicle which would be able to rapidly move along, carrying its \"pilot\" or \"passenger\" (whatever turns you on!), and keep upright without falling when forced to stop?",
+      "plus_factor_index": [
+        27
+      ],
+      "minus_factor_index": [
+        36
+      ],
+      "principle_index": [
+        1,
+        13,
+        35
+      ],
+      "solutions": [
+        {
+          "content": "If we have no resource that we can use to adjust the position of the scooter transversely, we can do it longitudinally, while transverse stability can be assured if the wheels are placed not one after the other (as is usually the case), but coaxially so that they are attached to the edges of the scooter! Now we have spatial and functional resources that we can use for steering!",
+          "principle_index": [
+            13
+          ]
+        }
+      ],
+      "notes": "Michael A. Orloff, Modern TRIZ, Page 368."
+    },
+    {
+      "id": "009",
+      "problem_description": "Thermal stresses in the skin structure of aircraft are not wanted. To offset thermal deformations, small spaces are intentionally left between the panels of the aircraft's skin. To make the surface aerodynamically sleek, gaps are filled with a sealant made from polymer (in paste form). The process of applying this paste to fill the gaps requires a lot of labor and takes a lot of time.",
+      "plus_factor_index": [
+        33
+      ],
+      "minus_factor_index": [
+        22
+      ],
+      "principle_index": [
+        2,
+        19,
+        13
+      ],
+      "solutions": [
+        {
+          "content": "It would be sufficient if the sealant just covered the gap between the panels. This would ease the process of closing the gaps, and would not degrade the aerodynamic properties of the aircraft skin. Specifically, A metal cap with an elastomeric retainer snaps into the gap, thus making its installation very quick.",
+          "principle_index": [
+            2
+          ]
+        }
+      ],
+      "notes": "Victor Fey, Innovation on Demand New Product Development Using TRIZ, Page 193."
+    },
+    {
+      "id": "013",
+      "problem_description": "Eyeglass wearers need lenses that are clear and fully transmissive indoors and in dim light, yet dark enough to shield the eyes from glare and bright sun outdoors. A single fixed tint cannot do both: a clear lens gives no outdoor protection, while a permanently dark lens makes indoor vision poor. The very same lens must be light when its surroundings are dim and dark when its surroundings are bright.",
+      "plus_factor_index": [
+        30
+      ],
+      "minus_factor_index": [
+        18
+      ],
+      "principle_index": [
+        32,
+        35
+      ],
+      "solutions": [
+        {
+          "content": "Make the lens from a photochromic material whose molecules reversibly switch optical state with ultraviolet exposure. In bright sunlight the high UV darkens the lens; indoors, with little UV, the material reverts and the lens turns clear again, so the lens adapts its own transmission to the ambient light without any user action.",
+          "principle_index": [
+            32
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "016",
+      "problem_description": "Liquid medicine is packaged in small glass ampoules whose necks are fused shut by a flame to give a perfectly airtight seal. The heat needed to melt and close the glass also reaches the medicine just below the neck, and many of these formulations are heat-sensitive and begin to degrade at those temperatures. We need a hermetic flame seal without letting the sealing heat spoil the medicine inside.",
+      "plus_factor_index": [
+        32
+      ],
+      "minus_factor_index": [
+        30
+      ],
+      "principle_index": [
+        9,
+        11
+      ],
+      "solutions": [
+        {
+          "content": "Chill the filled ampoule hard just before sealing, for instance by surrounding the liquid with liquid nitrogen so the medicine is frozen and very cold. During the brief moment the torch fuses the glass neck, the large cold reserve keeps the medicine far below its degradation temperature; once sealed, it simply warms back up undamaged.",
+          "principle_index": [
+            9
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "022",
+      "problem_description": "An elevator must raise a car loaded with passengers up many floors. If the hoist motor has to lift the entire dead weight of the car plus its load on every trip, it must be very powerful and it draws a large amount of energy each time it ascends, making the drive system big, expensive, and wasteful. We need to move the heavy car up and down without paying the full weight in motor size and energy on every trip.",
+      "plus_factor_index": [
+        10
+      ],
+      "minus_factor_index": [
+        19
+      ],
+      "principle_index": [
+        8
+      ],
+      "solutions": [
+        {
+          "content": "Hang a counterweight on the other side of the hoist cable, sized to roughly the weight of the empty car plus about half a typical load. As the car goes up the counterweight comes down, so gravity on the descending mass does most of the lifting work. The motor only has to supply the force for the difference between the two sides, so it can be far smaller and uses much less energy per trip.",
+          "principle_index": [
+            8
+          ]
+        }
+      ],
+      "notes": "Lean Outside the Box, \"40 Inventive Principles of TRIZ,\" leanoutsidethebox.com (accessed 2026-06-26)."
+    },
+    {
+      "id": "026",
+      "problem_description": "A drug must be delivered into the body steadily over a long period. Taking it as small pills means dosing too often to be practical, while a single large dose meant to last the whole period would reach harmful concentrations.",
+      "plus_factor_index": [
+        33
+      ],
+      "minus_factor_index": [
+        30
+      ],
+      "principle_index": [
+        20,
+        24
+      ],
+      "solutions": [
+        {
+          "content": "Deliver the drug through a flat adhesive skin patch. The active substance diffuses out of the patch through the skin at a controlled, steady rate, so the body receives a continuous low dose for days from a single application — no frequent pills and no harmful spike.",
+          "principle_index": [
+            20
+          ]
+        }
+      ],
+      "notes": "Задача ТРИЗ (трансдермальный пластырь со скополамином). 4brain.ru, \"Примеры, задачи и загадки по ТРИЗ с ответами,\" 4brain.ru/triz/zadachi.php (accessed 2026-06-26)"
+    },
+    {
+      "id": "P02",
+      "problem_description": "Industrial diamond grinding powder is made by splitting larger natural diamonds. Diamonds, like other gemstones, carry internal microcracks and flaws; the problem is to split each stone cleanly along its existing flaws to yield usable grit, at production scale, without shattering it unpredictably or wasting material.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Classic Altshuller TRIZ problem (splitting diamonds into industrial grinding dust). Innovation-TRIZ, \"The use of TRIZ to increase the value of Intellectual Property,\" innovation-triz.com/papers/property.html (accessed 2026-06-26)."
+    },
+    {
+      "id": "P04",
+      "problem_description": "A crew is trapped in a submarine that is immobilized on the sea bed. The task is to devise a way for the crew to escape and reach the surface when no diving gear, breathing apparatus, or external rescue is available.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Altshuller's early inventive problem (escape from an immobilized submarine without diving gear). Toolshero, \"Genrich Altshuller: his biography and books,\" toolshero.com (accessed 2026-06-26). Underspecified relative to P01–P03; flagged for tighter primary sourcing."
+    },
+    {
+      "id": "P08",
+      "problem_description": "A powerful radar station has a large, massive antenna mounted on a shaft. The antenna is turned only rarely and by hand, then locked on the shaft with a fixing device and bolts. Holding the heavy antenna steady requires large forces, so the bolts must be tightened very hard — which in turn makes them slow and difficult to release and re-aim the antenna.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 34 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P09",
+      "problem_description": "Finding a person buried by a mountain avalanche is very difficult. Many active devices, such as transmitters that signal the buried person's location, have been proposed, but they fail in real conditions: few tourists will carry such a transmitter 'just in case', and its batteries quickly go flat. A reliable way to locate avalanche victims is needed.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 35 (accessed 2026-06-26)."
+    },
+    {
+      "id": "P16",
+      "problem_description": "How can the links of very thin and ultra-thin gold chains be soldered? One metre of such a chain weighs only one gram. A method is needed that can solder tens to hundreds of metres per day: introducing micro-doses of solder into the gaps between links, heating those micro-doses without harming the whole chain, and removing any excess solder.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 187 (accessed 2026-06-26)."
+    }
+  ]
+}
