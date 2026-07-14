@@ -8,8 +8,21 @@ gateway_base_url: https://openrouter.ai/api/v1
 # Experiment isolation. Each run writes to its OWN folders so experiments never collide:
 #   data/<run>/generations, data/<run>/judgements, results/<run>/, pairs_<run>.json
 # Point `casebase` at the case file for this run.
-run: us_patents
-casebase: casebase_uspatents.json
+# p40 review run: 43 conditions x 5 cases x 4 models, generation ONLY
+# (no build_pairs / judging - outputs go to manual review, then the game's rate tab)
+run: p40_review
+casebase: casebase_p5.json
+prompt_dir: p40
+conditions: [T_OFF, T_ON, T_ON_ALL40,
+  T_ON_P01, T_ON_P02, T_ON_P03, T_ON_P04, T_ON_P05, T_ON_P06, T_ON_P07, T_ON_P08,
+  T_ON_P09, T_ON_P10, T_ON_P11, T_ON_P12, T_ON_P13, T_ON_P14, T_ON_P15, T_ON_P16,
+  T_ON_P17, T_ON_P18, T_ON_P19, T_ON_P20, T_ON_P21, T_ON_P22, T_ON_P23, T_ON_P24,
+  T_ON_P25, T_ON_P26, T_ON_P27, T_ON_P28, T_ON_P29, T_ON_P30, T_ON_P31, T_ON_P32,
+  T_ON_P33, T_ON_P34, T_ON_P35, T_ON_P36, T_ON_P37, T_ON_P38, T_ON_P39, T_ON_P40]
+
+# previous run (restore to re-run judging on the patent set):
+# run: us_patents
+# casebase: casebase_uspatents.json
 
 # Models = the "different agents". Each runs BOTH modes on every problem.
 # Edit freely; ids must be valid gateway "creator/model" strings (see --list-models).

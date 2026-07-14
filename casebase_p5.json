@@ -1,0 +1,81 @@
+{
+  "cases": [
+    {
+      "id": "012",
+      "problem_description": "A concrete bridge span carries heavy traffic loads that put its underside in tension as it bends. Concrete is strong in compression but weak in tension, so under service loads the lower fibres of the span crack, and its real load-bearing strength falls well short of what the cross-section should be able to provide. We need the span to withstand large bending loads without the concrete cracking on its tension side.",
+      "plus_factor_index": [
+        14
+      ],
+      "minus_factor_index": [
+        11
+      ],
+      "principle_index": [
+        9
+      ],
+      "solutions": [
+        {
+          "content": "Before the span enters service, thread high-strength steel tendons through it and tension them, putting the concrete into compression in advance. When traffic later tries to bend the underside into tension, that load must first cancel the built-in compression, so the concrete never reaches net tension and does not crack.",
+          "principle_index": [
+            9
+          ]
+        }
+      ],
+      "notes": "OpenSourceTRIZ, \"Resolving Contradictions\" (TRIZ Skills), opensourcetriz.com (accessed 2026-06-26).",
+      "source": "casebase.json 012 (TRIZ textbook); original source in notes"
+    },
+    {
+      "id": "024",
+      "problem_description": "Ice builds up on overhead power-transmission lines and can grow heavy enough to damage them. The ice must be removed without interrupting the electricity supply, and ideally without wasting energy heating the lines when the weather is above freezing and no ice can form.",
+      "plus_factor_index": [
+        30
+      ],
+      "minus_factor_index": [
+        20
+      ],
+      "principle_index": [
+        36,
+        23
+      ],
+      "solutions": [
+        {
+          "content": "Thread ferrite rings made of a magnetic material with a Curie point near 0 °C onto the conductors. Below freezing the rings are magnetic and the line's alternating current heats them, melting any ice; once the temperature rises above 0 °C the material passes its Curie point, loses its magnetism, and stops heating — so the de-icing switches itself on and off with the weather.",
+          "principle_index": [
+            36
+          ]
+        }
+      ],
+      "notes": "Классическая задача Альтшуллера (ферритовые кольца с точкой Кюри). 4brain.ru, \"Примеры, задачи и загадки по ТРИЗ с ответами,\" 4brain.ru/triz/zadachi.php (accessed 2026-06-26)",
+      "source": "casebase.json 024 (TRIZ textbook); original source in notes"
+    },
+    {
+      "id": "P03",
+      "problem_description": "A confectionery factory produces chocolates with a liquid sugar-syrup (liqueur) centre. To raise output the liquid filling is warmed so it flows freely and can be dispensed quickly into the moulds, but the hot filling softens and melts the chocolate shells it is meant to sit inside. The factory needs much higher filling throughput without the heat ruining the chocolate.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Classic Altshuller TRIZ problem (chocolate-filled / liqueur candy). Corroborated across multiple TRIZ references (e.g. sixsigmadaily.com and the metodolog.ru TRIZ Journal archive), accessed 2026-06-26. Primary-source page/edition not re-verified this run.",
+      "source": "casebase.json P03 (patent-derived); original source in notes"
+    },
+    {
+      "id": "P13",
+      "problem_description": "Tanker accidents have become more frequent, causing large losses of oil and contaminating vast areas of the sea. How can the leakage of liquid cargo out of a tanker's tanks be prevented when the ship is damaged in an accident?",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "notes": "Официальная задача ТРИЗ. В. Петров, «Алгоритм решения изобретательских задач» (АРИЗ), https://trizland.ru/trizba/pdf-books/ariz.pdf, PDF с. 67 (accessed 2026-06-26).",
+      "source": "casebase.json P13 (patent-derived); original source in notes"
+    },
+    {
+      "id": "029",
+      "problem_description": "Astronauts exploring Mars wear pressurized boots whose thick, rigid, insulated soles protect their feet from extreme cold, near-vacuum, and sharp abrasive dust. The same soles cut off nearly all ground sensation, so on uneven rocky terrain in reduced gravity astronauts cannot judge their footing and stumble easily. Design a haptic space boot for Mars exploration that lets the wearer clearly feel the terrain underfoot while keeping full environmental protection, without making the boot bulky or tiring to walk in.",
+      "plus_factor_index": [],
+      "minus_factor_index": [],
+      "principle_index": [],
+      "solutions": [],
+      "source": "New case (not in casebase.json); design brief from the haptic-boot paper (see notes)",
+      "notes": "Kuhail M.A., Berengueres J., Taher F., Khan S.Z., Siddiqui A., 'Designing a Haptic Boot for Space With Prompt Engineering: Process, Insights, and Implications', IEEE Access, 2024, DOI 10.1109/ACCESS.2024.3449396. Problem restated from the paper's NASA design brief (Fig. 2). No canonical TRIZ principle recorded - the paper does not use TRIZ."
+    }
+  ]
+}
