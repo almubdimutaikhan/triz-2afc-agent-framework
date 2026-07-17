@@ -27,6 +27,8 @@ wheels/
 data/
 # Flat CSV exports of every generation and judgement.
 *.csv
+# ...except the curated evidence files in the RA progress report.
+!report/*.csv
 # Rendered/report build artifacts.
 *.html
 *.pdf
