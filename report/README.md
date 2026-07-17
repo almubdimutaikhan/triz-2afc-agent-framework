@@ -5,25 +5,38 @@ Repos: [triz-2afc-agent-framework](https://github.com/almubdimutaikhan/triz-2afc
 
 ---
 
-## TL;DR
+## TL;DR — in the project's hypothesis terms
 
-1. **Built a full, reproducible evaluation framework** (open-sourced): N models × N prompt
-   conditions × N problems → blind 2AFC LLM-jury judging → case-clustered statistics.
-2. **Replicated the headline effect 3×**: a long TRIZ prompt beats an *empty* control in
-   ~68–72% of trustworthy blind judgements (n up to 1,841).
-3. **Then stress-tested it the right way** (prof's confound critique → 2×2 factorial pilot):
-   most of that effect is *prompt structure*, not TRIZ content — the one significant contrast
-   isolates structure alone (63.4%, OR 1.73); TRIZ-specific contrasts sit near 50%.
-4. **Pivoted to the sharper question** (prof's per-principle design): injected each of the
-   40 inventive principles individually — 860 generations across 5 problems × 4 models,
-   plus a novel 40-round "don't repeat yourself" exhaustion protocol (160 chained generations).
-5. **Built two human-rating web tools** (deployed on Netlify + Firebase) so we can rank
-   which principles actually win per problem, and compare principle-prompting vs
-   iterative-exhaustion head-to-head.
+- **H1 (TRIZ prompt injection improves 2AFC creativity) — tested and REJECTED, with
+  evidence.** The raw effect replicated 3× (~68–72%, n up to 1,841), but the 2×2 factorial
+  pilot isolated the cause: **prompt structure, not TRIZ content** (structure-only contrast
+  63.4%, OR 1.73, significant; TRIZ-specific contrasts ~49–57%, n.s.). Phases 1–2 below are
+  the full evidence chain for that verdict.
+- **H2 (iterative agentic workflows) — ACTIVE and promising.** Phase 4's 40-round
+  "don't repeat yourself" exhaustion chains are the first controlled probe: models differ
+  enormously in ideation depth under iteration (Claude: 40/40 distinct mechanisms; GPT-4o
+  recycles from round 4). The live Netlify tools (Review tab + /compare) are the current
+  H2 test instruments.
+- **Toward the "absolute novelty" agenda:** the chains already carry a first computational
+  novelty metric (content-overlap distance to all prior solutions) — a primitive ancestor
+  of the planned SOTA-database "Compute Distance" measure.
+- **Infrastructure delivered:** reproducible generation/judging/stats pipeline
+  (open-sourced), two deployed human-rating web tools, validated & expandable casebases.
 
 ---
 
-## Phase 1 — Framework + the original question (TRIZ on vs off)
+## Timeline (matches the project log, weeks 1–6)
+
+| Week | What I delivered |
+|---|---|
+| 1 (Jun 11–13) | Kickoff; pipeline design (2AFC protocol, bias controls, leakage rule) |
+| 2 (Jun 22–27) | 45-case dataset; 4-model pipeline (+ Gemini 2.5 Flash); first trustworthy-subset signal 69.8% |
+| 3 (Jul 1) | Framework published as open source; stylistic-leakage suppression verified; CrPO 5th generator on Colab |
+| 4 (Jul 5) | ELEC-042 mouse probe (89.5% across 8 blind judge configurations); human-eval game deployed (Netlify + Firebase) |
+| 5 (Jul 7) | 12-case factorial pilot → **H1 rejection evidence** (structure, not TRIZ content); CI power law fitted |
+| 6 (Jul 14–now) | Per-principle p40 design (860 generations), exhaustion chains (160 rounds) with novelty metric, Review + Compare rating tools deployed |
+
+## Phase 1 — Framework + the original question (TRIZ on vs off) → H1 evidence
 
 **Design.** Each model solves each problem twice — TRIZ-expert system prompt vs no system
 prompt — with an identical user message that forces a plain-language `FINAL SOLUTION`
@@ -45,7 +58,7 @@ Extras: ran **CrPO** (creativity-finetuned Llama-3.1-8B) on Colab as a generator
 model (60.2% cross-family — the TRIZ effect transfers to a small creative-tuned model);
 quantified self-preference bias (~+5pp) and reported it honestly.
 
-## Phase 2 — The confound critique and the factorial redesign
+## Phase 2 — The factorial redesign → why H1 was rejected
 
 Prof's critique: TRIZ-vs-empty-control conflates TRIZ *content* with prompt *length,
 structure and expert framing*. Redesign implemented exactly as specified:
@@ -88,7 +101,7 @@ inventive principle** and see which ones actually move solutions.
   star the top-3 principle outputs, like/dislike the baselines, live dashboard of
   which principle wins per problem, public CSV export of all ballots.
 
-## Phase 4 — Solution-space exhaustion (iterative "don't repeat")
+## Phase 4 — Solution-space exhaustion (iterative "don't repeat") → first H2 probe
 
 New protocol probing how *deep* a model's idea well is: same problem (Mars boot), TRIZ-on
 prompt, 40 sequential rounds per model where every previous solution is appended as
@@ -126,16 +139,23 @@ similarity to any earlier round in the chain):
 - **Data assets**: 45-case textbook casebase (+ canonical principles), 84-case patent
   casebase, validator + expansion protocol.
 
-## Proposed next steps (for discussion)
+## Proposed next steps (aligned with the project roadmap)
 
-1. **Collect ballots** in the Review + Compare tools (me + prof + 1–2 colleagues), then
-   report which principles win per problem and whether principle-injection beats exhaustion.
-2. **Adaptation check**: automated verification that each per-principle output actually
-   *used* its injected principle (prompted checker), crossed with the human picks.
-3. **Scale the winner**: correct-vs-random-principle test on the ~50-problem stage using
-   the casebases' canonical principle labels (the textbook set already has them).
-4. **Paper skeleton**: Phase 1 (effect) → Phase 2 (decomposition) → Phase 3/4 (mechanism)
-   is a coherent narrative; methods and prompt/problem tables are ready to draft.
+1. **Collect ballots** in the Review + Compare tools (team pass), then report which
+   principles win per problem and whether principle-injection beats iterative exhaustion —
+   this is the direct A/B evidence for H2.
+2. **Problem decomposition (Insight 1):** extend the pipeline so a problem is first
+   decomposed into functional components (Innovation Matrix / Wardley-style "boxes") and
+   agents apply principles to the *relationships between components* — the casebase schema
+   and N-condition generator are ready to host this.
+3. **Novelty metric (literature blindspot):** grow the chains' content-overlap measure into
+   the planned **Compute Distance** vs a SOTA/patent database — the exhaustion protocol is
+   the natural testbed, since it already produces graded novelty under pressure.
+4. **Adaptation check:** automated verification that each per-principle output actually
+   *used* its injected principle, crossed with the human picks; then correct-vs-random
+   principle assignment at the ~50-problem scale (canonical principle labels exist).
+5. **Paper:** H1 rejection (Phases 1–2) → H2 mechanism (Phases 3–4) is the narrative;
+   methods + prompt/problem tables ready to draft against Suake's literature review.
 
 ## Files in this folder
 
